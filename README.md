@@ -203,6 +203,7 @@
 - [denford/TuteCumber](https://github.com/denford/TuteCumber) - Tutorial and example project for cucumber.js with node.js
 - [ngryman/love-hate-particles](https://github.com/ngryman/love-hate-particles) - This is a little experiment about two particles' relationship.
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 - [jescalan/roots](https://github.com/jescalan/roots) - a toolkit for rapid advanced front-end development
 - [michaelvillar/dynamics.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based animations
 - [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
@@ -376,7 +377,6 @@
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [ariporad/pirates](https://github.com/ariporad/pirates) - Properly hijack require
 - [geut/chan](https://github.com/geut/chan) - A Changelog CLI based on http://keepachangelog.com/
 - [DataFire/DataFire](https://github.com/DataFire/DataFire) - A framework for building integrations and APIs
@@ -1060,12 +1060,11 @@
 - [Famous/engine](https://github.com/Famous/engine) - 
 - [olado/doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [Automattic/cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.JS
-- [isaacs/abbrev-js](https://github.com/isaacs/abbrev-js) - Like ruby's Abbrev module
+- [npm/abbrev-js](https://github.com/npm/abbrev-js) - Like ruby's Abbrev module
 - [juliangruber/multipipe](https://github.com/juliangruber/multipipe) - A better `Stream.pipe` that creates duplex streams and lets you handle errors in one place.
 - [sindresorhus/cows](https://github.com/sindresorhus/cows) - :cow: ASCII cows
 - [mafintosh/to-buffer](https://github.com/mafintosh/to-buffer) - Pass in a string, get a buffer back. Pass in a buffer, get the same buffer back.
 - [kevva/vinyl-to-stream](https://github.com/kevva/vinyl-to-stream) - Convert a vinyl stream to a text stream
-- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [dthree/wat](https://github.com/dthree/wat) - Instant, central, community-built docs
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
@@ -1935,6 +1934,7 @@
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
+- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [janjakubnanista/ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) - Runtime duck type checking utilities for TypeScript.
 - [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript
 - [deeprjs/deepr](https://github.com/deeprjs/deepr) - A specification for invoking remote methods, deeply!

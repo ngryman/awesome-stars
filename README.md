@@ -173,6 +173,7 @@
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [bbc/viewporter](https://github.com/bbc/viewporter) - In-browser responsive testing tool.
 - [thomaslindstrom/no-caffeine-syntax](https://github.com/thomaslindstrom/no-caffeine-syntax) - A dark, crisp and clean Atom Editor syntax theme with no caffeine
+- [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [renoirb/htmlcsstherightway](https://github.com/renoirb/htmlcsstherightway) - A spinoff on the "the right way" idea to explain the HTML/CSS basics for the self-taught.  Idea coming from https://github.com/h5bp/lazyweb-requests/issues/73
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
@@ -306,10 +307,9 @@
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-- [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder) - Deprecated, not accepting PRs, please see Readme.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
-- [sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [igrigorik/istlsfastyet.com](https://github.com/igrigorik/istlsfastyet.com) - Is TLS fast yet? Yes, yes it is.
 - [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
@@ -514,7 +514,7 @@
 - [sindresorhus/react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 - [adriancmiranda/unkn](https://github.com/adriancmiranda/unkn) - ES6 to CommonJS
 - [ngryman/letenv](https://github.com/ngryman/letenv) - CLI environment variables loader.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers [Unmaintained]
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
 - [microlinkhq/splashy](https://github.com/microlinkhq/splashy) - Given an image, extract predominant & palette colors.
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.
@@ -1787,6 +1787,7 @@
 
 ## Ruby 
 
+- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [xotahal/fastlane-plugin-semantic_release](https://github.com/xotahal/fastlane-plugin-semantic_release) - Fully automated version management and generator of release notes
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
@@ -1908,7 +1909,7 @@
 
 ## Swift 
 
-- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer🎧
 - [yuhuili/TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface

@@ -1069,7 +1069,7 @@
 - [dthree/wat](https://github.com/dthree/wat) - Instant, central, community-built docs
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [yeoman/insight](https://github.com/yeoman/insight) - Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics
-- [wooorm/gemoji](https://github.com/wooorm/gemoji) - Info on GitHub emoji: gemoji
+- [wooorm/gemoji](https://github.com/wooorm/gemoji) - Info on gemoji (GitHub Emoji)
 - [syntax-tree/unist-util-select](https://github.com/syntax-tree/unist-util-select) - utility to select unist nodes with CSS-like selectors
 - [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
 - [sindresorhus/first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run

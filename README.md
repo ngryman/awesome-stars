@@ -284,6 +284,7 @@
 - [darosh/colorgram-js](https://github.com/darosh/colorgram-js) - Color extraction library
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [catapult-project/catapult](https://github.com/catapult-project/catapult) - Deprecated Catapult GitHub. Please instead use http://crbug.com "Speed&gt;Benchmarks" component for bugs and https://chromium.googlesource.com/catapult for downloading and editing source code..
@@ -1986,7 +1987,6 @@
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [9ballsyndrome/WebGL_Compute_shader](https://github.com/9ballsyndrome/WebGL_Compute_shader) - WebGL 2.0 Compute shader Demos
-- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
@@ -2106,7 +2106,7 @@
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [tfoxy/chrome-promise](https://github.com/tfoxy/chrome-promise) - Promises for chrome JavaScript APIs used in extensions and apps.

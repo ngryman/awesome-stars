@@ -1555,6 +1555,7 @@
 
 ## Jupyter Notebook 
 
+- [MAIF/melusine](https://github.com/MAIF/melusine) - Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français".
 - [Kreswell/Small-Projects](https://github.com/Kreswell/Small-Projects) - Small recreational and hobby coding projects.
 - [learnml/machine-learning-specialization](https://github.com/learnml/machine-learning-specialization) - 
 

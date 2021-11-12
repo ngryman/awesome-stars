@@ -1810,6 +1810,7 @@
 
 ## Rust 
 
+- [Mubelotix/email-parser](https://github.com/Mubelotix/email-parser) - The fastest and lightest mail parsing Rust library.
 - [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust
 - [ngryman/woot-bar](https://github.com/ngryman/woot-bar) - Very minimalist tmux status bar that displays used memory and CPU usage.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -1914,7 +1915,7 @@
 
 ## Swift 
 
-- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer🎧
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [yuhuili/TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface

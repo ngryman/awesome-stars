@@ -717,7 +717,6 @@
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
 - [estools/estraverse](https://github.com/estools/estraverse) - ECMAScript JS AST traversal functions
 - [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
-- [simonify/create-dispatcher](https://github.com/simonify/create-dispatcher) - A simple, minimal event dispatcher for JavaScript.
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [senchalabs/philogl](https://github.com/senchalabs/philogl) - A WebGL Framework for Data Visualization, Creative Coding and Game Development
@@ -1915,6 +1914,7 @@
 
 ## Swift 
 
+- [usr-sse2/RDM](https://github.com/usr-sse2/RDM) - Easily set Mac Retina display to higher unsupported resolutions
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [yuhuili/TouchBarDino](https://github.com/yuhuili/TouchBarDino) - Chrome dinosaur game on Touch Bar
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.

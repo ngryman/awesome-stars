@@ -173,7 +173,6 @@
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [bbc/viewporter](https://github.com/bbc/viewporter) - In-browser responsive testing tool.
 - [thomaslindstrom/no-caffeine-syntax](https://github.com/thomaslindstrom/no-caffeine-syntax) - A dark, crisp and clean Atom Editor syntax theme with no caffeine
-- [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [renoirb/htmlcsstherightway](https://github.com/renoirb/htmlcsstherightway) - A spinoff on the "the right way" idea to explain the HTML/CSS basics for the self-taught.  Idea coming from https://github.com/h5bp/lazyweb-requests/issues/73
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
@@ -309,6 +308,7 @@
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+- [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [chriskempson/base16-builder](https://github.com/chriskempson/base16-builder) - Deprecated, not accepting PRs, please see Readme.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
@@ -1072,7 +1072,7 @@
 - [yeoman/insight](https://github.com/yeoman/insight) - Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics
 - [wooorm/gemoji](https://github.com/wooorm/gemoji) - Info on gemoji (GitHub Emoji)
 - [syntax-tree/unist-util-select](https://github.com/syntax-tree/unist-util-select) - utility to select unist nodes with CSS-like selectors
-- [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [sindresorhus/first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - :smirk: simple emoji support for node.js projects
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.

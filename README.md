@@ -21,7 +21,6 @@
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
-  - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
@@ -62,6 +61,7 @@
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [cesanta/mjs](https://github.com/cesanta/mjs) - Embedded JavaScript engine for C/C++
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
@@ -336,10 +336,6 @@
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [valderman/haste-compiler](https://github.com/valderman/haste-compiler) - A GHC-based Haskell to JavaScript compiler
-
-## Haxe 
-
-- [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 
 ## Java 
 

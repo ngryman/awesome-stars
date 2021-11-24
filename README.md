@@ -478,7 +478,7 @@
 - [koajs/bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
 - [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
 - [WebReflection/asbundle](https://github.com/WebReflection/asbundle) - A minimalistic JS bundler
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [chalk/wrap-ansi](https://github.com/chalk/wrap-ansi) - Wordwrap a string with ANSI escape codes
 - [bytenode/bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.

@@ -1184,7 +1184,6 @@
 - [node4good/formage](https://github.com/node4good/formage) - Bootstraped Admin GUI addon for mongoose, jugglingdb, or just as a form generator
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
-- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [fergiemcdowall/norch](https://github.com/fergiemcdowall/norch) - A search engine based on Node.js and LevelDB
 - [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 - [sindresorhus/electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features to your Electron app
@@ -2119,6 +2118,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS
 - [Polymer/polymer-bundler](https://github.com/Polymer/polymer-bundler) - Moved to Polymer/tools monorepo
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [ShogunPanda/fastimage](https://github.com/ShogunPanda/fastimage) - A module that finds the size and type of an image by fetching and reading as little data as needed.

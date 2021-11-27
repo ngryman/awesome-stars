@@ -1759,7 +1759,6 @@
 - [ZeevG/python-dominant-image-colour](https://github.com/ZeevG/python-dominant-image-colour) - A K-means algorithm for detecting image colours
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [tschellenbach/Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
@@ -2086,6 +2085,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [canvg/canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [sindresorhus/p-pipe](https://github.com/sindresorhus/p-pipe) - Compose promise-returning & async functions into a reusable pipeline
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app

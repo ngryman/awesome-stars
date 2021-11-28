@@ -1317,7 +1317,7 @@
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [isaacs/st](https://github.com/isaacs/st) - A node module for serving static files.  Does etags, caching, etc.
 - [hswolff/read-time](https://github.com/hswolff/read-time) - Calculate how long it will take you to read some text.
-- [visionmedia/debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+- [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [amasad/debug_utils](https://github.com/amasad/debug_utils) - Advanced JavaScript Debugging Utility Library
 - [jstrace/bars](https://github.com/jstrace/bars) - Ascii bar charting for nodejs
 - [rvagg/ghissues](https://github.com/rvagg/ghissues) - A node library to interact with the GitHub issues API

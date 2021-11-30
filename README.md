@@ -419,7 +419,6 @@
 - [nats-io/nats.js](https://github.com/nats-io/nats.js) - Node.js client for NATS, the cloud native messaging system.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [ExpressGateway/express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [75lb/command-line-usage](https://github.com/75lb/command-line-usage) - A simple, data-driven module for creating a usage guide.
 - [HarryStevens/geometric](https://github.com/HarryStevens/geometric) - A JavaScript library for doing geometry.
 - [maxkueng/victor](https://github.com/maxkueng/victor) - A JavaScript 2D vector class with methods for common vector operations
@@ -1940,7 +1939,7 @@
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [janjakubnanista/ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) - Runtime duck type checking utilities for TypeScript.
 - [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript
-- [deeprjs/deepr](https://github.com/deeprjs/deepr) - A specification for invoking remote methods, deeply!
+- [deeprjs/deepr](https://github.com/deeprjs/deepr) - A lightweight alternative to GraphQL
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
@@ -1984,6 +1983,7 @@
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
 - [JohnWeisz/TypedJSON](https://github.com/JohnWeisz/TypedJSON) - Typed JSON parsing and serializing for TypeScript that preserves type information.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [9ballsyndrome/WebGL_Compute_shader](https://github.com/9ballsyndrome/WebGL_Compute_shader) - WebGL 2.0 Compute shader Demos
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps

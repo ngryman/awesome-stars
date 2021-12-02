@@ -352,6 +352,7 @@
 
 ## JavaScript 
 
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
@@ -1001,7 +1002,7 @@
 - [ngryman/lol-champions](https://github.com/ngryman/lol-champions) - Simplified, up-to-date, League of Legends champions list.
 - [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) - Sketch plugins by Cemre Gungor
-- [bouchenoiremarc/sketch-constraints](https://github.com/bouchenoiremarc/sketch-constraints) - 📏 A plugin that integrates constraints in Sketch to lay out layers.
+- [marcbouchenoire/sketch-constraints](https://github.com/marcbouchenoire/sketch-constraints) - 📏 A plugin that integrates constraints in Sketch to lay out layers.
 - [socketio/engine.io](https://github.com/socketio/engine.io) - 
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.

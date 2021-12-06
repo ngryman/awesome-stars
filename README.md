@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.

@@ -1805,6 +1805,7 @@
 
 ## Rust 
 
+- [rutgersc/m3u8-rs](https://github.com/rutgersc/m3u8-rs) - m3u8 parser for rust
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [Mubelotix/email-parser](https://github.com/Mubelotix/email-parser) - The fastest and lightest mail parsing Rust library.
 - [rajasekarv/vega](https://github.com/rajasekarv/vega) - A new arguably faster implementation of Apache Spark from scratch in Rust

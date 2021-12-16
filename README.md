@@ -113,7 +113,7 @@
 - [UprootLabs/poly-flif](https://github.com/UprootLabs/poly-flif) - :camera: A poly-fill for the FLIF image format.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-- [RSATom/WebChimera.js](https://github.com/RSATom/WebChimera.js) - libvlc binding for Electron
+- [RSATom/WebChimera.js](https://github.com/RSATom/WebChimera.js) - [ABANDONED] libvlc binding for Electron
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [marcominetti/node-memwatch](https://github.com/marcominetti/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.

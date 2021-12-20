@@ -1083,7 +1083,7 @@
 - [s-a/iron-node](https://github.com/s-a/iron-node) - Debug Node.js code with Chrome Developer Tools.
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [floatdrop/stream-assert](https://github.com/floatdrop/stream-assert) - Assertion library for streams
-- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert
 - [ngryman/gulp-say](https://github.com/ngryman/gulp-say) - Text To Speech errors for gulp.
 - [junosuarez/dinosaurs](https://github.com/junosuarez/dinosaurs) - a list of common dinosaur names
 - [matiassingers/generator-sass-library](https://github.com/matiassingers/generator-sass-library) - start a simple Sass library
@@ -1805,6 +1805,7 @@
 
 ## Rust 
 
+- [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [rutgersc/m3u8-rs](https://github.com/rutgersc/m3u8-rs) - m3u8 parser for rust
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [Mubelotix/email-parser](https://github.com/Mubelotix/email-parser) - The fastest and lightest mail parsing Rust library.

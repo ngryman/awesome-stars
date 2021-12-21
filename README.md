@@ -130,6 +130,7 @@
 - [mikeseven/node-webcl](https://github.com/mikeseven/node-webcl) - 
 - [mikeseven/node-opencl](https://github.com/mikeseven/node-opencl) - Low-level OpenCL 1.x and 2.x bindgings for node.js
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [coreperf/rejit](https://github.com/coreperf/rejit) - fast SIMD-able JIT regular expression compiler
 - [BloodAxe/CloudCVBackend](https://github.com/BloodAxe/CloudCVBackend) - A C++ backend module for CloudCV
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
@@ -638,7 +639,6 @@
 - [substack/node-mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js
 - [lemmabit/rollup-stream](https://github.com/lemmabit/rollup-stream) - a wrapper around Rollup that returns a stream instead of a Promise
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [speedracer/speedracer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
@@ -1900,7 +1900,6 @@
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [tj/n](https://github.com/tj/n) - Node version management
 - [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [j5at/AndroidAVDRepo](https://github.com/j5at/AndroidAVDRepo) - A collection of pre-configured Android emulator configuration files (AVD and ini files)
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
@@ -2073,6 +2072,7 @@
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [localvoid/kivi](https://github.com/localvoid/kivi) - [UNMAINTAINED] Javascript (TypeScript) library for building web user interfaces

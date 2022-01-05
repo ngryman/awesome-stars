@@ -1282,7 +1282,6 @@
 - [raphaelcruzeiro/jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 - [troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) - Recursively iterates over specified directory, requiring each file, and returning a nested hash structure containing those libraries.
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [airbnb/polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
 - [robrich/gulp-if](https://github.com/robrich/gulp-if) - Conditionally run a task
 - [nquinlan/better-random-numbers-for-javascript-mirror](https://github.com/nquinlan/better-random-numbers-for-javascript-mirror) - A direct mirror of Johannes Baagøe's wiki on implementations of Randomness in Javascript.
@@ -1752,7 +1751,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [ydkhatri/MacForensics](https://github.com/ydkhatri/MacForensics) - Scripts to process macOS forensic artifacts
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [django-webpack/django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with django
@@ -1807,6 +1806,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [srijs/rust-crc32fast](https://github.com/srijs/rust-crc32fast) - Fast, SIMD-accelerated CRC32 (IEEE) checksum computation in Rust
 - [meqif/rust-utp](https://github.com/meqif/rust-utp) - A µTP (Micro/uTorrent Transport Library) library implemented in Rust

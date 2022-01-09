@@ -915,7 +915,7 @@
 - [ngryman/obelisk-buildr](https://github.com/ngryman/obelisk-buildr) - Isometric builder using obelisk.js.
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [qodesmith/typer](https://github.com/qodesmith/typer) - A JavaScript typing library with sexy syntax and diddly dependencies.
-- [Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) - Typing animation mimicking human behavior.
+- [zhouzi/TheaterJS](https://github.com/zhouzi/TheaterJS) - Typing animation mimicking human behavior.
 - [chenzhutian/hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier) - A plugin for Hexo that optimizes HTML, CSS, JS and imagages, and it can optionally deploys your blog.
 - [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 - [freeman-lab/minidocs](https://github.com/freeman-lab/minidocs) - build a minimalist site for your documentation
@@ -1806,6 +1806,7 @@
 
 ## Rust 
 
+- [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [srijs/rust-crc32fast](https://github.com/srijs/rust-crc32fast) - Fast, SIMD-accelerated CRC32 (IEEE) checksum computation in Rust
@@ -2044,7 +2045,7 @@
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [streamich/freestyler](https://github.com/streamich/freestyler) - 5th generation CSS-in-JS library
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Lint the browser compatibility of your code
+- [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [adumont/tplink-cloud-api](https://github.com/adumont/tplink-cloud-api) - A node.js npm module to remotely control TP-Link smartplugs (HS100, HS110) and smartbulbs (LB100, LB110, LB120, LB130) using their cloud web service (no need to be on the same wifi/lan)
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library

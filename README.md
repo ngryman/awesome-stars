@@ -124,7 +124,7 @@
 - [biometrics/openbr](https://github.com/biometrics/openbr) - Open Source Biometrics, Face Recognition
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512  for x86/x64, VMX(Altivec) and VSX(Power7) for PowerPC, NEON for ARM.
-- [avaneev/avir](https://github.com/avaneev/avir) - High-quality pro image resizing / scaling C++ library, including very fast Lanczos resizer
+- [avaneev/avir](https://github.com/avaneev/avir) - High-quality pro image resizing / scaling C++ library, including a very fast Lanczos resizer
 - [sorccu/node-jpeg-turbo](https://github.com/sorccu/node-jpeg-turbo) - Limited libjpeg-turbo bindings for Node.js.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk) - A web runtime built on Chrome. This project is currently unmaintained.
@@ -1987,7 +1987,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [timruddell/2d-platformer](https://github.com/timruddell/2d-platformer) - A simple browser-based 2d platform game template using three-js and matter-js
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [lume/glas](https://github.com/lume/glas) - WebGL in WebAssembly with AssemblyScript
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️

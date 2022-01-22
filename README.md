@@ -691,7 +691,7 @@
 - [choojs/nanomorph](https://github.com/choojs/nanomorph) - 🚅 - Hyper fast diffing algorithm for real DOM nodes
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks
 - [roman01la/postcss-camel-case](https://github.com/roman01la/postcss-camel-case) - PostCSS plugin to convert CSS selector names to camelCase
-- [airbnb/react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
+- [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [GPMDP/google-play-music-desktop-remote](https://github.com/GPMDP/google-play-music-desktop-remote) - A React-Native app to remote control Google Play Music Desktop
 - [ngryman/npm-v](https://github.com/ngryman/npm-v) - Get installed npm version

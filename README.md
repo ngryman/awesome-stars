@@ -260,7 +260,6 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [iotaledger/goshimmer](https://github.com/iotaledger/goshimmer) - Prototype implementation of IOTA 2.0
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -1807,6 +1806,7 @@
 
 ## Rust 
 
+- [turnage/immense](https://github.com/turnage/immense) - Meshes with L-Systems
 - [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys) - FFmpeg bindings for Rust.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -2003,6 +2003,7 @@
 - [9ballsyndrome/WebGL_Compute_shader](https://github.com/9ballsyndrome/WebGL_Compute_shader) - WebGL 2.0 Compute shader Demos
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
 - [gqless/gqless](https://github.com/gqless/gqless) - a GraphQL client without queries
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles

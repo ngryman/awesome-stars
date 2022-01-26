@@ -524,7 +524,6 @@
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [developit/asyncro](https://github.com/developit/asyncro) - ⛵️ Beautiful Array utilities for ESnext async/await ~
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [rebench/rebench.github.io](https://github.com/rebench/rebench.github.io) - Benchmarking done Reasonably
@@ -1972,7 +1971,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
-- [krzkaczor/ts-essentials](https://github.com/krzkaczor/ts-essentials) - All basic TypeScript types in one place 🤙
+- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [ngryman/fauda](https://github.com/ngryman/fauda) - Configuration made simple.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -2054,6 +2053,7 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [braintree/credit-card-type](https://github.com/braintree/credit-card-type) - A library for determining credit card type
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.

@@ -550,7 +550,7 @@
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [andreypopp/react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS
-- [thysultan/stylis.js](https://github.com/thysultan/stylis.js) - light – weight css preprocessor
+- [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor
 - [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [ReactTraining/react-broadcast](https://github.com/ReactTraining/react-broadcast) - Reliably communicate state changes to deeply nested React elements
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀

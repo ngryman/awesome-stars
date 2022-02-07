@@ -1540,7 +1540,7 @@
 - [CreateJS/TweenJS](https://github.com/CreateJS/TweenJS) - A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.
 - [mashpie/i18n-node](https://github.com/mashpie/i18n-node) - Lightweight simple translation module for node.js / express.js with dynamic json storage. Uses common __('...') syntax in app and templates.
 - [indexzero/nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
-- [jamesgpearce/confess](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
+- [jamesgpearce/confess](https://github.com/jamesgpearce/confess) - [ARCHIVED] Uses PhantomJS to headlessly analyze web pages and generate manifests. You may be able to use the puppeteer-har package instead.
 - [rgr-myrg/pattern-js](https://github.com/rgr-myrg/pattern-js) - Pocket-sized minimalist framework of common design patterns for JavaScript.
 - [boblemarin/Sprite3D.js](https://github.com/boblemarin/Sprite3D.js) - Sprite3D.js, a JS library for generating and manipulating CSS 3D transforms
 

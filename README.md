@@ -773,7 +773,7 @@
 - [tristen/tablesort](https://github.com/tristen/tablesort) - :arrow_up_down: A small tablesorter in plain JavaScript
 - [IonicaBizau/typpy](https://github.com/IonicaBizau/typpy) - :v: A better typeof for JavaScript.
 - [rollup/rollup-plugin-alias](https://github.com/rollup/rollup-plugin-alias) - This module has moved and is now available at @rollup/plugin-alias / https://github.com/rollup/plugins/tree/master/packages/alias
-- [tivac/modular-css](https://github.com/tivac/modular-css) - A streamlined reinterpretation of CSS Modules via CLI, API, Browserify, Rollup, Webpack, or PostCSS
+- [tivac/modular-css](https://github.com/tivac/modular-css) - CSS Modules, but better and usable via Rollup, Vite, Webpack, CLI, PostCSS, or JS API
 - [yoshuawuyts/server-router](https://github.com/yoshuawuyts/server-router) - Server router
 - [lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling

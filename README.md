@@ -640,7 +640,7 @@
 - [substack/node-mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js
 - [lemmabit/rollup-stream](https://github.com/lemmabit/rollup-stream) - a wrapper around Rollup that returns a stream instead of a Promise
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-- [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
+- [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [speedracer/speedracer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
 - [sindresorhus/ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal

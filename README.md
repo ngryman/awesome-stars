@@ -1587,7 +1587,7 @@
 
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [w0lfschild/mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
-- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Per-device scrolling prefs on macOS.
 - [kimar/Octosaver](https://github.com/kimar/Octosaver) - A Mac OS X Screensaver showing http://octodex.github.com Octocats
 - [mattr-/slate](https://github.com/mattr-/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
@@ -2004,7 +2004,7 @@
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
-- [gqless/gqless](https://github.com/gqless/gqless) - a GraphQL client without queries
+- [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [grammarly/focal](https://github.com/grammarly/focal) - Program user interfaces the FRP way.
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.

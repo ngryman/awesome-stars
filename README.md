@@ -1560,6 +1560,7 @@
 
 ## Lua 
 
+- [jessarcher/dotfiles](https://github.com/jessarcher/dotfiles) - $HOME sweet $HOME
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [chuanli11/CNNMRF](https://github.com/chuanli11/CNNMRF) - code for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis"
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -1882,7 +1883,6 @@
 
 ## Shell 
 
-- [jessarcher/dotfiles](https://github.com/jessarcher/dotfiles) - $HOME sweet $HOME
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.

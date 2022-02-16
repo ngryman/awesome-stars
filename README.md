@@ -374,7 +374,7 @@
 - [megahertz/howfat](https://github.com/megahertz/howfat) - Shows how fat is a package
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [siimon/prom-client](https://github.com/siimon/prom-client) - Prometheus client for node.js
 - [amqp-node/amqplib](https://github.com/amqp-node/amqplib) - AMQP 0-9-1 library and client for Node.JS
 - [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam
@@ -468,7 +468,7 @@
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API :fire:
 - [ImmoweltGroup/flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) - A command line interface that aims to solve a few issues while working with flow typed codebases in a mono-repo.
-- [SimonDEvans/notes](https://github.com/SimonDEvans/notes) - Offline-first notepad PWA
+- [siimonevans/notes](https://github.com/siimonevans/notes) - Offline-first notepad PWA
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [marcj/css-element-queries](https://github.com/marcj/css-element-queries) - CSS Element-Queries aka Container Queries. High-speed element dimension/media queries in valid css.
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
@@ -1606,7 +1606,6 @@
 ## Others 
 
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
-- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
@@ -1833,6 +1832,7 @@
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [schell/mogwai](https://github.com/schell/mogwai) - The minimalist, obvious, graphical, web application interface
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [PabloMansanet/tightness](https://github.com/PabloMansanet/tightness) - 

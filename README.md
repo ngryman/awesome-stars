@@ -247,6 +247,8 @@
 
 ## Go 
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!

@@ -247,6 +247,7 @@
 
 ## Go 
 
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS

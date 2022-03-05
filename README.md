@@ -1807,6 +1807,7 @@
 
 ## Rust 
 
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [turnage/immense](https://github.com/turnage/immense) - Meshes with L-Systems
 - [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys) - FFmpeg bindings for Rust.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library

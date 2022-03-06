@@ -1807,6 +1807,8 @@
 
 ## Rust 
 
+- [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
+- [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - Rust Kubernetes client and controller runtime
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [turnage/immense](https://github.com/turnage/immense) - Meshes with L-Systems
 - [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys) - FFmpeg bindings for Rust.

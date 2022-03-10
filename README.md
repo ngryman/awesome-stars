@@ -1807,6 +1807,7 @@
 
 ## Rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - Rust Kubernetes client and controller runtime

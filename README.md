@@ -21,6 +21,7 @@
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
+  - [JSON](#json)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
@@ -345,6 +346,10 @@
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [valderman/haste-compiler](https://github.com/valderman/haste-compiler) - A GHC-based Haskell to JavaScript compiler
 
+## JSON 
+
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
+
 ## Java 
 
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
@@ -526,7 +531,6 @@
 - [microlinkhq/splashy](https://github.com/microlinkhq/splashy) - Given an image, extract predominant & palette colors.
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [developit/asyncro](https://github.com/developit/asyncro) - ⛵️ Beautiful Array utilities for ESnext async/await ~
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
@@ -2076,7 +2080,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [robinweser/css-in-js-utils](https://github.com/robinweser/css-in-js-utils) - Useful utility functions for CSS in JS solutions
-- [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify’s admin product component library
+- [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s admin product component library
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁

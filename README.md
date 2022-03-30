@@ -532,6 +532,7 @@
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [developit/asyncro](https://github.com/developit/asyncro) - ⛵️ Beautiful Array utilities for ESnext async/await ~
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [rebench/rebench.github.io](https://github.com/rebench/rebench.github.io) - Benchmarking done Reasonably
@@ -1142,7 +1143,6 @@
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [HenrikJoreteg/native-promisify-if-present](https://github.com/HenrikJoreteg/native-promisify-if-present) - Return a promise from a callback-as-last-argument function using native a Promise, but only if native Promises exist.
 - [rschmukler/gulp-insert](https://github.com/rschmukler/gulp-insert) - string mutation library for gulp
-- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [markmarijnissen/js-mediator](https://github.com/markmarijnissen/js-mediator) - Tiny Javascript library for the Mediator Pattern
 - [Famous/famous](https://github.com/Famous/famous) - This repo is being deprecated. Please check out http://github.com/famous/engine
 - [ben-eb/perfectionist](https://github.com/ben-eb/perfectionist) - Beautify CSS files.
@@ -2074,7 +2074,6 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [braintree/credit-card-type](https://github.com/braintree/credit-card-type) - A library for determining credit card type
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
@@ -2151,6 +2150,7 @@
 - [thelgevold/angular-samples](https://github.com/thelgevold/angular-samples) - Angular sample components
 - [rolandjitsu/angular-lab](https://github.com/rolandjitsu/angular-lab) - Angular Lab
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS

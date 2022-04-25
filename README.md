@@ -365,6 +365,7 @@
 
 ## JavaScript 
 
+- [NectarJS/nectarjs](https://github.com/NectarJS/nectarjs) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.

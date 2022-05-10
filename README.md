@@ -110,6 +110,7 @@
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
+- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [aappleby/smhasher](https://github.com/aappleby/smhasher) - Automatically exported from code.google.com/p/smhasher
@@ -349,7 +350,6 @@
 
 ## Java 
 
-- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [googlecreativelab/landmarker](https://github.com/googlecreativelab/landmarker) - Orientation, GPS, and Places enabled Android Experiment
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework

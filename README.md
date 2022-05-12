@@ -404,7 +404,7 @@
 - [automation-stack/node-machine-id](https://github.com/automation-stack/node-machine-id) - Unique machine (desktop) id (no admin privileges required)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [rvagg/jsdoc4readme](https://github.com/rvagg/jsdoc4readme) - Generate an API section for a README.md from inline JSDocs
@@ -1810,6 +1810,7 @@
 
 ## Rust 
 
+- [pmalmgren/proxysaur](https://github.com/pmalmgren/proxysaur) - A network debugging proxy powered by WebAssembly
 - [Qovery/engine](https://github.com/Qovery/engine) - The simplest way to deploy your apps on any cloud provider ⚡️
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [bastion-rs/agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor

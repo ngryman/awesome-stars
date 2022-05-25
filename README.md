@@ -532,7 +532,7 @@
 - [sindresorhus/react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 - [adriancmiranda/unkn](https://github.com/adriancmiranda/unkn) - ES6 to CommonJS
 - [ngryman/letenv](https://github.com/ngryman/letenv) - CLI environment variables loader.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Discontinued] Renderless Containers
 - [microlinkhq/splashy](https://github.com/microlinkhq/splashy) - Given an whatever image (GIF, PNG, WebP, AVIF, etc) extract predominant & palette colors.
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.

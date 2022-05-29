@@ -146,6 +146,7 @@
 - [rectalogic/v8-webgl](https://github.com/rectalogic/v8-webgl) - WebGL implementation for v8
 - [bobrik/node-aligned-buffer](https://github.com/bobrik/node-aligned-buffer) - Create aligned buffers to make faster disk io with less iops
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
+- [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [dosx/node-vips](https://github.com/dosx/node-vips) - node.js bindings for vips
 - [laverdet/node-fibers](https://github.com/laverdet/node-fibers) - Fiber/coroutine support for v8 and node.
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
@@ -1871,7 +1872,7 @@
 - [enseadaio/enseada](https://github.com/enseadaio/enseada) - A Cloud native multi-package registry
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [pholactery/eventsourcing](https://github.com/pholactery/eventsourcing) - Event Sourcing Library for Rust
-- [sn-oss-transfer/pulsar-rs](https://github.com/sn-oss-transfer/pulsar-rs) - Rust Client library for Apache Pulsar
+- [streamnative/pulsar-rs](https://github.com/streamnative/pulsar-rs) - Rust Client library for Apache Pulsar
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
@@ -2089,7 +2090,7 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [braintree/credit-card-type](https://github.com/braintree/credit-card-type) - A library for determining credit card type
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
@@ -2183,7 +2184,6 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
 ## Vue 

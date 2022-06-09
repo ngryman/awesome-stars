@@ -413,7 +413,7 @@
 - [automation-stack/node-machine-id](https://github.com/automation-stack/node-machine-id) - Unique machine (desktop) id (no admin privileges required)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [offen/offen](https://github.com/offen/offen) - The fair and lightweight alternative to common web analytics tools
 - [rvagg/jsdoc4readme](https://github.com/rvagg/jsdoc4readme) - Generate an API section for a README.md from inline JSDocs
@@ -727,7 +727,7 @@
 - [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 - [jaridmargolin/inspect-process](https://github.com/jaridmargolin/inspect-process) - 🔍 Dead simple debugging for node.js using chrome-devtools.
 - [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
 - [morganherlocker/cubic-spline](https://github.com/morganherlocker/cubic-spline) - interpolate for X in a 2d array
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
 - [estools/estraverse](https://github.com/estools/estraverse) - ECMAScript JS AST traversal functions

@@ -1464,7 +1464,6 @@
 - [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) - 
 - [ajacksified/song-of-github](https://github.com/ajacksified/song-of-github) - Let me play you the song of my contributions.
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [GianlucaGuarini/EasyAnimationFrame](https://github.com/GianlucaGuarini/EasyAnimationFrame) - Using EasyAnimationFrame.js you can make html5 canvas or html animations having the complete control over the framerate.
 - [gre/diaporama](https://github.com/gre/diaporama) - image/video/content slideshow engine providing high quality animation effects including Kenburns Effect and GLSL Transitions.
 - [domenic/sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
@@ -1599,6 +1598,7 @@
 
 ## Objective-C 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [w0lfschild/mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
@@ -2189,6 +2189,7 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
 ## Vue 

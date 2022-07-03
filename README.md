@@ -677,7 +677,7 @@
 - [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs
 - [developit/undom](https://github.com/developit/undom) - 🍩 1kb minimally viable DOM Document implementation
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
-- [tunnckoCore/opensource](https://github.com/tunnckoCore/opensource) - Delivering delightful digital solutions. Open Source packages with combined ~100M/month downloads, semantically versioned following @conventional-commits. Fully powered by Jest, @Babel TypeScript, @Ai
+- [tunnckoCore/opensource](https://github.com/tunnckoCore/opensource) - Delivering delightful digital solutions. Monorepo of monorepos of Open Source packages with combined ~100M/month downloads, semantically versioned following @conventional-commits. Fully powered ES Mod
 - [dfilatov/vidom](https://github.com/dfilatov/vidom) - Library to build UI based on virtual DOM
 - [dyo/dyo](https://github.com/dyo/dyo) - Dyo is a JavaScript library for building user interfaces.
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming

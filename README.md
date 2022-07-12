@@ -171,7 +171,6 @@
 - [sindresorhus/tab-size-on-github](https://github.com/sindresorhus/tab-size-on-github) - Chrome extension - Make tab indented code more readable by forcing the tab size to 4 instead of 8
 - [ngryman/sass-dry](https://github.com/ngryman/sass-dry) - DRY your SASS code.
 - [davidkpiano/sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash.
-- [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [tictail/bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time.
 - [jonikorpi/Golden-Grid-System](https://github.com/jonikorpi/Golden-Grid-System) - A folding grid for responsive design.
 - [murtaugh/HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) - A simple set of best practices to get HTML5 projects off on the right foot.
@@ -1906,6 +1905,7 @@
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [danielguillan/bem-constructor](https://github.com/danielguillan/bem-constructor) - A Sass library for building immutable and namespaced BEM-style CSS objects
 - [oddbird/true](https://github.com/oddbird/true) - Sass unit tests
+- [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 
 ## Scala 

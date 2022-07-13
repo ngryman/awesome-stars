@@ -734,7 +734,6 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [senchalabs/philogl](https://github.com/senchalabs/philogl) - A WebGL Framework for Data Visualization, Creative Coding and Game Development
 - [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
-- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [choojs/nanocomponent](https://github.com/choojs/nanocomponent) - 🚃 - create performant HTML components
 - [pvorb/clone](https://github.com/pvorb/clone) - deeply clone arbitrary objects in javascript
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
@@ -2134,6 +2133,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis

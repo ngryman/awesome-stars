@@ -1868,7 +1868,7 @@
 - [PabloMansanet/tightness](https://github.com/PabloMansanet/tightness) - 
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with AWS S3 and other API compatible services
+- [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with S3 API compatible services
 - [enseadaio/enseada](https://github.com/enseadaio/enseada) - A Cloud native multi-package registry
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [pholactery/eventsourcing](https://github.com/pholactery/eventsourcing) - Event Sourcing Library for Rust

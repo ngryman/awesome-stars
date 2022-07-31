@@ -724,7 +724,6 @@
 - [gwtw/js-data-structures](https://github.com/gwtw/js-data-structures) - A collection of data structures written in JavaScript
 - [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 - [jaridmargolin/inspect-process](https://github.com/jaridmargolin/inspect-process) - 🔍 Dead simple debugging for node.js using chrome-devtools.
-- [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
 - [morganherlocker/cubic-spline](https://github.com/morganherlocker/cubic-spline) - interpolate for X in a 2d array
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
@@ -2132,6 +2131,7 @@
 - [localvoid/ivi](https://github.com/localvoid/ivi) - :fire: Javascript (TypeScript) library for building web user interfaces
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
+- [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.

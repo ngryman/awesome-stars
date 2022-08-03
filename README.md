@@ -1814,6 +1814,8 @@
 
 ## Rust 
 
+- [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
+- [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A standalone runtime for WebAssembly
@@ -1984,7 +1986,7 @@
 - [nodefluent/kafka-streams](https://github.com/nodefluent/kafka-streams) - equivalent to kafka-streams :octopus: for nodejs :sparkles::turtle::rocket::sparkles:
 - [runbots/pino-bravo](https://github.com/runbots/pino-bravo) - A beautiful minimalist formatter for pino.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [janjakubnanista/ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) - Runtime duck type checking utilities for TypeScript.

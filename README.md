@@ -335,7 +335,7 @@
 - [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
 - [KhronosGroup/WebGL](https://github.com/KhronosGroup/WebGL) - The Official Khronos WebGL Repository
 - [ozten/TLD.js](https://github.com/ozten/TLD.js) - Kickstarter project for applying for a JavaScript top level domain (.js TLD)
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [benbarnett/jquery-animate-enhanced](https://github.com/benbarnett/jquery-animate-enhanced) - Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE&gt;=10 and Opera and convert animations automatically.
 
@@ -1088,9 +1088,8 @@
 - [ghooks-org/ghooks](https://github.com/ghooks-org/ghooks) - Simple git hooks
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [conventional-changelog/releaser-tools](https://github.com/conventional-changelog/releaser-tools) - Create a GitHub/GitLab/etc. release using a project's commit messages and metadata.
-- [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
+- [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [ngryman/gulp-pimp](https://github.com/ngryman/gulp-pimp) - Pimp your imports!
-- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [s-a/iron-node](https://github.com/s-a/iron-node) - Debug Node.js code with Chrome Developer Tools.
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [floatdrop/stream-assert](https://github.com/floatdrop/stream-assert) - Assertion library for streams
@@ -2166,6 +2165,7 @@
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!

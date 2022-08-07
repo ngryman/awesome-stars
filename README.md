@@ -2132,7 +2132,7 @@
 - [localvoid/ivi](https://github.com/localvoid/ivi) - :fire: Javascript (TypeScript) library for building web user interfaces
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
-- [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.

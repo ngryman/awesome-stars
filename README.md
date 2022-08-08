@@ -51,6 +51,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -2201,6 +2202,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License

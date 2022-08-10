@@ -536,7 +536,7 @@
 - [sindresorhus/react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 - [adriancmiranda/unkn](https://github.com/adriancmiranda/unkn) - ES6 to CommonJS
 - [ngryman/letenv](https://github.com/ngryman/letenv) - CLI environment variables loader.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Discontinued] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
 - [microlinkhq/splashy](https://github.com/microlinkhq/splashy) - Given an whatever image (GIF, PNG, WebP, AVIF, etc) extract predominant & palette colors.
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.
@@ -1611,6 +1611,7 @@
 
 ## Others 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [seeker89/unikernels](https://github.com/seeker89/unikernels) - State of the art for unikernels
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source

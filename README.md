@@ -1814,6 +1814,7 @@
 
 ## Rust 
 
+- [timfish/bincode-typescript](https://github.com/timfish/bincode-typescript) - Generates TypeScript bincode serialisation code from Rust structs and enums
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser

@@ -251,6 +251,7 @@
 
 ## Go 
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [opencontainers/umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
@@ -1788,7 +1789,7 @@
 
 ## Reason 
 
-- [kitten/wonka](https://github.com/kitten/wonka) - 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
+- [0no-co/wonka](https://github.com/0no-co/wonka) - 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [jordwalke/flex](https://github.com/jordwalke/flex) - Reason CSS Flexbox implementation
 - [Schmavery/reprocessing](https://github.com/Schmavery/reprocessing) - ReasonML graphics library inspired by Processing
@@ -1814,6 +1815,7 @@
 
 ## Rust 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [timfish/bincode-typescript](https://github.com/timfish/bincode-typescript) - Generates TypeScript bincode serialisation code from Rust structs and enums
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
@@ -1881,7 +1883,7 @@
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [tensorflow/rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
@@ -2056,7 +2058,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [yarax/swagger-to-graphql](https://github.com/yarax/swagger-to-graphql) - Swagger to GraphQL API adapter
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [kimamula/ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [alexreardon/memoize-one](https://github.com/alexreardon/memoize-one) - A memoization library which only remembers the latest invocation

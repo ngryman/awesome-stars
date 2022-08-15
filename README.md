@@ -984,7 +984,7 @@
 - [ngryman/generator-library](https://github.com/ngryman/generator-library) - Scaffold a generic node library.
 - [ngryman/lines-iterator](https://github.com/ngryman/lines-iterator) - Iterates over lines, es6 way.
 - [SBoudrias/grouped-queue](https://github.com/SBoudrias/grouped-queue) - In memory queue system prioritizing tasks
-- [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
+- [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names) - :cat2: Get popular cat names
 - [ProLoser/Github-Omnibox](https://github.com/ProLoser/Github-Omnibox) - Github Commands from Google Chrome Omnibox (address bar)

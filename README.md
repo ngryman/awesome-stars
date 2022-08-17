@@ -1814,6 +1814,7 @@
 
 ## Rust 
 
+- [kennytm/parse-size](https://github.com/kennytm/parse-size) - Parse byte size into integer accurately.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [timfish/bincode-typescript](https://github.com/timfish/bincode-typescript) - Generates TypeScript bincode serialisation code from Rust structs and enums
 - [superfly/init-snapshot](https://github.com/superfly/init-snapshot) - Fly

@@ -1096,7 +1096,7 @@
 - [s-a/iron-node](https://github.com/s-a/iron-node) - Debug Node.js code with Chrome Developer Tools.
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [floatdrop/stream-assert](https://github.com/floatdrop/stream-assert) - Assertion library for streams
-- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.js, styl
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.
 - [ngryman/gulp-say](https://github.com/ngryman/gulp-say) - Text To Speech errors for gulp.
 - [junosuarez/dinosaurs](https://github.com/junosuarez/dinosaurs) - a list of common dinosaur names
 - [matiassingers/generator-sass-library](https://github.com/matiassingers/generator-sass-library) - start a simple Sass library

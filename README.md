@@ -251,6 +251,7 @@
 
 ## Go 
 
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.

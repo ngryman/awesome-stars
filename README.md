@@ -1385,7 +1385,7 @@
 - [tpgit/UnOfficialLeptDocs](https://github.com/tpgit/UnOfficialLeptDocs) - Temporary Sphinx-generated Documentation for the Leptonica Image Processing Library
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [componentjs/component](https://github.com/componentjs/component) - frontend package manager and build tool for modular web applications
-- [ericelliott/cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
+- [paralleldrive/cuid](https://github.com/paralleldrive/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
 - [dominictarr/curry](https://github.com/dominictarr/curry) - simple curry module, with nothing *too clever*, and full test coverage
 - [jakerella/jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses
 - [sindresorhus/load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks) - Load multiple grunt tasks using globbing patterns

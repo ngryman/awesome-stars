@@ -62,6 +62,7 @@
 
 ## C 
 
+- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [memononen/nanovg](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
@@ -652,7 +653,6 @@
 - [ngryman/badge-size](https://github.com/ngryman/badge-size) - :beers: Displays the size of a given file in your repository.
 - [thlorenz/cardinal](https://github.com/thlorenz/cardinal) - Syntax highlights JavaScript code with ANSI colors to be printed to the terminal.
 - [vadimdemedes/mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
-- [substack/node-mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js
 - [lemmabit/rollup-stream](https://github.com/lemmabit/rollup-stream) - a wrapper around Rollup that returns a stream instead of a Promise
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
@@ -671,7 +671,7 @@
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [paulirish/devtools-timeline-model](https://github.com/paulirish/devtools-timeline-model) - Unsupported
 - [paulirish/automated-chrome-profiling](https://github.com/paulirish/automated-chrome-profiling) - Node.js recipes for automating javascript profiling in Chrome
-- [substack/tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
+- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs
 - [developit/undom](https://github.com/developit/undom) - 🍩 1kb minimally viable DOM Document implementation
@@ -810,7 +810,6 @@
 - [mathiasbynens/he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [shannonmoeller/spiff](https://github.com/shannonmoeller/spiff) - Promise-aware file-system adapter and transmogrifier.
-- [substack/minimist](https://github.com/substack/minimist) - parse argument options
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [paulirish/speedline](https://github.com/paulirish/speedline) - Calculate the speed index from devtools performance trace
 - [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
@@ -887,7 +886,6 @@
 - [rollup/rollup-plugin-multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - This module has moved and is now available at @rollup/plugin-multi-entry / https://github.com/rollup/plugins/blob/master/packages/multi-entry
 - [jonschlinkert/to-flags](https://github.com/jonschlinkert/to-flags) - Convert the properties of an object to command line flags.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [substack/subarg](https://github.com/substack/subarg) - parse arguments with recursive contexts
 - [jonschlinkert/minimist-methods](https://github.com/jonschlinkert/minimist-methods) - Map your node.js application's methods to command line arguments.
 - [tandrewnichols/opted](https://github.com/tandrewnichols/opted) - Stringify an object to command line options
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
@@ -1051,7 +1049,6 @@
 - [tholman/giflinks](https://github.com/tholman/giflinks) - The best thing to happen to the internet since the &lt;a&gt; tag.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [sindresorhus/is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream
-- [substack/node-gcd](https://github.com/substack/node-gcd) - compute the greatest common divisor using euclid's algorithm
 - [isaacs/node-hexedit](https://github.com/isaacs/node-hexedit) - hexadecimal editor in node
 - [notwaldorf/github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - :zzz: (inactive) Because copy pasting isn't that great.
 - [vadimdemedes/trevor](https://github.com/vadimdemedes/trevor) - 🚦 Your own mini Travis CI to run tests locally
@@ -1164,7 +1161,7 @@
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [sindresorhus/object-values](https://github.com/sindresorhus/object-values) - Get the values of an object
-- [substack/faucet](https://github.com/substack/faucet) - human-readable TAP summarizer
+- [ljharb/faucet](https://github.com/ljharb/faucet) - human-readable TAP summarizer
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [thlorenz/proxyquire](https://github.com/thlorenz/proxyquire) - 🔮 Proxies nodejs require in order to allow overriding dependencies during testing.
 - [maxogden/csv-write-stream](https://github.com/maxogden/csv-write-stream) - A CSV encoder stream that produces properly escaped CSVs
@@ -1182,11 +1179,9 @@
 - [hughsk/uglifyify](https://github.com/hughsk/uglifyify) - A browserify transform which minifies your code using UglifyJS2
 - [defunctzombie/zuul](https://github.com/defunctzombie/zuul) - [UNMAINTAINED] multi-framework javascript browser testing
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-- [substack/travisify](https://github.com/substack/travisify) - add github hooks for travis-ci
 - [thlorenz/testlingify](https://github.com/thlorenz/testlingify) - Adds github hooks and browser config for testling.
 - [mantoni/phantomic](https://github.com/mantoni/phantomic) - Pipe stdin to Phantom.JS
 - [jzaefferer/commitplease](https://github.com/jzaefferer/commitplease) - Validates strings as commit messages
-- [substack/node-falafel](https://github.com/substack/node-falafel) - transform the ast on a recursive walk
 - [focusaurus/express_code_structure](https://github.com/focusaurus/express_code_structure) - Example of how to organize a medium-size express.js web application
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -1230,7 +1225,6 @@
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [loryjs/lory](https://github.com/loryjs/lory) - ☀ Touch enabled minimalistic slider written in vanilla JavaScript.
 - [taunus/taunus](https://github.com/taunus/taunus) - :car: Micro Isomorphic MVC. Progressive Enhancement. Content-First. Single-Page Applications (that are also server-side rendered). Predictive Caching. Bring Your Own View Engine.
-- [substack/hyperquest](https://github.com/substack/hyperquest) - make streaming http requests
 - [geelen/typeslab](https://github.com/geelen/typeslab) - Simple, shareable typographic posters
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [chemzqm/parallel](https://github.com/chemzqm/parallel) - Make async in parallel easier for node and component.
@@ -1343,7 +1337,6 @@
 - [scdoshi/jquery-ajaxchimp](https://github.com/scdoshi/jquery-ajaxchimp) - Use ajax for your mailchimp form
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
-- [substack/seaport](https://github.com/substack/seaport) - semver service registry for clusters
 - [spdy-http2/node-spdy](https://github.com/spdy-http2/node-spdy) - SPDY server on Node.js
 - [bestiejs/platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
 - [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
@@ -1373,7 +1366,7 @@
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [aterrien/jQuery-Knob](https://github.com/aterrien/jQuery-Knob) - Nice, downward compatible, touchable, jQuery dial
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
-- [substack/testling](https://github.com/substack/testling) - unit tests in all the browsers
+- [ljharb/testling](https://github.com/ljharb/testling) - unit tests in all the browsers
 - [9elements/loadie.js](https://github.com/9elements/loadie.js) - Loadie.js is a lightweight jQuery plugin to create a preloader that doesn't suck and that is used by big firms.
 - [sindresorhus/grunt-eslint](https://github.com/sindresorhus/grunt-eslint) - Validate files with ESLint
 - [philipwalton/html-inspector](https://github.com/philipwalton/html-inspector) - HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
@@ -1388,7 +1381,6 @@
 - [dominictarr/curry](https://github.com/dominictarr/curry) - simple curry module, with nothing *too clever*, and full test coverage
 - [jakerella/jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses
 - [sindresorhus/load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks) - Load multiple grunt tasks using globbing patterns
-- [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [matthewmueller/date](https://github.com/matthewmueller/date) - Date() for humans
 - [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
 - [kangax/kratko.js](https://github.com/kangax/kratko.js) - Simple tool to help refactor Javascript
@@ -1492,8 +1484,6 @@
 - [ngryman/jquery.tappable.js](https://github.com/ngryman/jquery.tappable.js) - More responsive (iOS-like) touch behaviour for buttons and other 'tappable' UI elements
 - [zynga/core](https://github.com/zynga/core) - [DEPRECATED] Core - A Fine Foundation for JavaScript Development
 - [flatiron/plates](https://github.com/flatiron/plates) - Light-weight, logic-less, DSL-free, templates for all javascript environments!
-- [substack/bouncy](https://github.com/substack/bouncy) - bounce HTTP requests around for load balancing or as an HTTP host router
-- [substack/fleet](https://github.com/substack/fleet) - multi-server continuous git-based deployment and process management
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [crcn/celeri](https://github.com/crcn/celeri) - CLI library for node.js
 - [tobie/modulr-node](https://github.com/tobie/modulr-node) - Resolves and concatenates CommonJS module dependencies for use in the browser.
@@ -1530,14 +1520,12 @@
 - [mikeal/watch](https://github.com/mikeal/watch) - Utilities for watching file trees in node.js
 - [madrobby/vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
-- [substack/node-optimist](https://github.com/substack/node-optimist) - Light-weight option parsing for node.js
 - [kriskowal/q](https://github.com/kriskowal/q) - A promise library for JavaScript
 - [mishoo/UglifyJS-old](https://github.com/mishoo/UglifyJS-old) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [node-apn/node-apn](https://github.com/node-apn/node-apn) - :calling: Apple Push Notification module for Node.js
 - [mape/connect-assetmanager](https://github.com/mape/connect-assetmanager) - Middleware for Connect (node.js) for handling your static assets.
 - [tj/dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
-- [substack/dnode](https://github.com/substack/dnode) - turtles all the way down rpc
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
 - [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
@@ -1980,6 +1968,7 @@
 
 ## TypeScript 
 
+- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.

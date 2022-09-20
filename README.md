@@ -330,6 +330,7 @@
 - [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com) - Files for the HTML5 Boilerplate website.
 - [igrigorik/istlsfastyet.com](https://github.com/igrigorik/istlsfastyet.com) - Is TLS fast yet? Yes, yes it is.
 - [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
@@ -1312,7 +1313,6 @@
 - [ngryman/stores](https://github.com/ngryman/stores) - Stores things efficiently. Don't worry about cache stampede anymore.
 - [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi) - Node.js Foreign Function Interface
 - [mixu/minilog](https://github.com/mixu/minilog) - Lightweight client & server-side logging with Stream-API backends
-- [h5bp/html5boilerplate.com](https://github.com/h5bp/html5boilerplate.com) - Files for the HTML5 Boilerplate website.
 - [rvagg/isstream](https://github.com/rvagg/isstream) - Determine if an object is a Node.js Stream
 - [Decad/Console.save](https://github.com/Decad/Console.save) - Save json files from the chrome console.
 - [jstrace/jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for javascript, in javascript (similar dtrace, ktap etc)

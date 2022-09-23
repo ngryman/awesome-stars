@@ -373,6 +373,8 @@
 
 ## JavaScript 
 
+- [netlify/framework-info](https://github.com/netlify/framework-info) - Framework detection utility
+- [netlify/build-info](https://github.com/netlify/build-info) - Build info utility
 - [Kikobeats/to-query](https://github.com/Kikobeats/to-query) - Get query object from a request url
 - [NectarJS/nectarjs](https://github.com/NectarJS/nectarjs) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1671,7 +1673,7 @@
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [timjacobi/angular-education](https://github.com/timjacobi/angular-education) - A list of helpful material to develop using Angular
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [steeve/france.code-civil](https://github.com/steeve/france.code-civil) - Le code civil français sous git
@@ -1823,7 +1825,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
-- [kube-rs/kube-rs](https://github.com/kube-rs/kube-rs) - Rust Kubernetes client and controller runtime
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [turnage/immense](https://github.com/turnage/immense) - Meshes with L-Systems
 - [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys) - FFmpeg bindings for Rust.
@@ -1968,6 +1970,7 @@
 
 ## TypeScript 
 
+- [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids

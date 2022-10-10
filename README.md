@@ -26,6 +26,7 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Less](#less)
 - [LiveScript](#livescript)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -165,7 +166,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
 - [csstools/precss](https://github.com/csstools/precss) - Use Sass-like markup in your CSS
-- [arcticicestudio/nord-atom-syntax](https://github.com/arcticicestudio/nord-atom-syntax) - An arctic, north-bluish clean and elegant Atom syntax theme.
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 - [finnp/dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component
@@ -1555,6 +1555,10 @@
 - [Kreswell/Small-Projects](https://github.com/Kreswell/Small-Projects) - Small recreational and hobby coding projects.
 - [learnml/machine-learning-specialization](https://github.com/learnml/machine-learning-specialization) - 
 
+## Less 
+
+- [arcticicestudio/nord-atom-syntax](https://github.com/arcticicestudio/nord-atom-syntax) - An arctic, north-bluish clean and elegant Atom syntax theme.
+
 ## LiveScript 
 
 - [ythecombinator/happy-valentines](https://github.com/ythecombinator/happy-valentines) - 💖Simple module to show your love on this Valentine's Day.
@@ -2143,7 +2147,7 @@
 - [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [thlorenz/spok](https://github.com/thlorenz/spok) - Checks a given object against a given specification to keep you from writing boilerplate tests.
 - [localvoid/ivi](https://github.com/localvoid/ivi) - :fire: Javascript (TypeScript) library for building web user interfaces
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.

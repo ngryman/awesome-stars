@@ -64,6 +64,7 @@
 
 ## C 
 
+- [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -759,7 +760,7 @@
 - [Raynos/term-color](https://github.com/Raynos/term-color) - A lighter weight alternative to chalk
 - [wyze/babel-plugin-transform-react-stateless-component-name](https://github.com/wyze/babel-plugin-transform-react-stateless-component-name) - Adds a display name to the stateless component in the React Dev Tools.
 - [sindresorhus/modify-values](https://github.com/sindresorhus/modify-values) - Modify the values of an object
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nfriedly/get-user-media-promise](https://github.com/nfriedly/get-user-media-promise) - Basic wrapper for navigator.mediaDevices.getUserMedia with automatic fallback to navigator.getUserMedia
 - [hughsk/canvas-fit](https://github.com/hughsk/canvas-fit) - Small module for fitting a canvas element within the bounds of its parent.
 - [mattdesl/simple-html-index](https://github.com/mattdesl/simple-html-index) - a simple HTML index through stream
@@ -2028,7 +2029,7 @@
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [ngryman/fauda](https://github.com/ngryman/fauda) - Configuration made simple.
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [zalando-incubator/graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language

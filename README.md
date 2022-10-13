@@ -1812,6 +1812,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -1831,7 +1832,7 @@
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [pmalmgren/proxysaur](https://github.com/pmalmgren/proxysaur) - A network debugging proxy powered by WebAssembly
-- [Qovery/engine](https://github.com/Qovery/engine) - The Platform to Deploy On-demand Environments in the Cloud ⚡️
+- [Qovery/engine](https://github.com/Qovery/engine) - The Platform to Create Production-like Environments at the Speed of Light ⚡️
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [bastion-rs/agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
@@ -1989,6 +1990,7 @@
 
 ## TypeScript 
 
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [unjs/ipx](https://github.com/unjs/ipx) - High performance, secure and easy to use image proxy based on Sharp and libvips.
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.

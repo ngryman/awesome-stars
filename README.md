@@ -1238,7 +1238,6 @@
 - [chemzqm/parallel](https://github.com/chemzqm/parallel) - Make async in parallel easier for node and component.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [mattgodbolt/Miracle](https://github.com/mattgodbolt/Miracle) - JavaScript Sega Master System Emulator
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [imakewebthings/waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
 - [jedireza/aqua](https://github.com/jedireza/aqua) - :bulb: A website and user system starter
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
@@ -1812,6 +1811,7 @@
 
 ## Rust 
 
+- [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
@@ -2203,6 +2203,7 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [ShogunPanda/fastimage](https://github.com/ShogunPanda/fastimage) - A module that finds the size and type of an image by fetching and reading as little data as needed.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.

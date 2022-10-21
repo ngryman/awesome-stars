@@ -1297,6 +1297,7 @@
 - [nquinlan/better-random-numbers-for-javascript-mirror](https://github.com/nquinlan/better-random-numbers-for-javascript-mirror) - A direct mirror of Johannes Baagøe's wiki on implementations of Randomness in Javascript.
 - [firebase/superstatic](https://github.com/firebase/superstatic) - Superstatic: a static file server for fancy apps.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
+- [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
@@ -2207,7 +2208,6 @@
 - [ShogunPanda/fastimage](https://github.com/ShogunPanda/fastimage) - A module that finds the size and type of an image by fetching and reading as little data as needed.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [github/time-elements](https://github.com/github/time-elements) - Web component extensions to the standard &lt;time&gt; element.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.

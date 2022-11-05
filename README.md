@@ -2199,7 +2199,7 @@
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-- [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS
+- [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [Polymer/polymer-bundler](https://github.com/Polymer/polymer-bundler) - Moved to Polymer/tools monorepo
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins

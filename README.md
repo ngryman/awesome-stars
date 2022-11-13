@@ -1811,6 +1811,7 @@
 
 ## Rust 
 
+- [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [ntex-rs/ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner

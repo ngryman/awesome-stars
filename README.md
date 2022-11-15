@@ -1996,7 +1996,7 @@
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [ivangabriele/postgrester](https://github.com/ivangabriele/postgrester) - Isomorphic PostgREST API Client for Javascript and Typescript.
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.

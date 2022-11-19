@@ -43,6 +43,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Starlark](#starlark)
@@ -1478,7 +1479,6 @@
 - [Thuzi/facebook-node-sdk](https://github.com/Thuzi/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
 - [scottgonzalez/node-browserstack](https://github.com/scottgonzalez/node-browserstack) - node.js client for BrowserStack
 - [adityaravishankar/command-and-conquer](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer in HTML5/Javascript
-- [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
 - [thinkpixellab/PxLoader](https://github.com/thinkpixellab/PxLoader) - PxLoader is a simple JavasScript library for creating preloaders and resource downloaders for HTML5 apps.
 - [AshleyScirra/WebGLGap](https://github.com/AshleyScirra/WebGLGap) - PhoneGap plugin to enable WebGL.
 - [remy/track](https://github.com/remy/track) - Interaction tracker library (mouse, touch, keyboard)
@@ -1685,7 +1685,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [steeve/france.code-civil](https://github.com/steeve/france.code-civil) - Le code civil français sous git
 - [h5bp/lazyweb-requests](https://github.com/h5bp/lazyweb-requests) - Get projects and ideas built by the community
-- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1916,6 +1915,10 @@
 - [oddbird/true](https://github.com/oddbird/true) - Sass unit tests
 - [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
+
+## SVG 
+
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 
 ## Scala 
 
@@ -2215,6 +2218,7 @@
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
+- [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
 ## Vue 

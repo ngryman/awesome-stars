@@ -378,7 +378,7 @@
 
 ## JavaScript 
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [netlify/framework-info](https://github.com/netlify/framework-info) - Framework detection utility
 - [netlify/build-info](https://github.com/netlify/build-info) - Build info utility
 - [Kikobeats/to-query](https://github.com/Kikobeats/to-query) - Get query object from a request url

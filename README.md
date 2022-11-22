@@ -14,6 +14,7 @@
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [GLSL](#glsl)
@@ -241,6 +242,10 @@
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
 ## Elixir 
 
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
@@ -378,7 +383,6 @@
 
 ## JavaScript 
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [netlify/framework-info](https://github.com/netlify/framework-info) - Framework detection utility
 - [netlify/build-info](https://github.com/netlify/build-info) - Build info utility
 - [Kikobeats/to-query](https://github.com/Kikobeats/to-query) - Get query object from a request url

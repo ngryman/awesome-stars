@@ -910,7 +910,7 @@
 - [mieszko4/m-sorted-array](https://github.com/mieszko4/m-sorted-array) - 
 - [aaronj1335/t-js](https://github.com/aaronj1335/t-js) - lightweight tree traversal for javascript
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
-- [brainshave/ancient-oak](https://github.com/brainshave/ancient-oak) - Immutable data trees in JavaScript.
+- [szymonrw/ancient-oak](https://github.com/szymonrw/ancient-oak) - Immutable data trees in JavaScript.
 - [sindresorhus/deep-assign](https://github.com/sindresorhus/deep-assign) - [DEPRECATED] Recursive Object.assign()
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [hughsk/display-tree](https://github.com/hughsk/display-tree) - A JavaScript tree implementation designed to be efficiently "flattened" and sorted.

@@ -1430,7 +1430,7 @@
 - [cgiffard/Behaviour-Assertion-Sheets](https://github.com/cgiffard/Behaviour-Assertion-Sheets) - CSS-like declarative DSL for web integration testing.
 - [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
 - [visionmedia/page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
-- [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
+- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [aearly/grunt-gluejs](https://github.com/aearly/grunt-gluejs) - Grunt wrapper for GlueJS
 - [mixu/npm_lazy](https://github.com/mixu/npm_lazy) - A lazy local cache for NPM to make your local deploys faster
 - [mixu/gluejs](https://github.com/mixu/gluejs) - Build CommonJS modules for the browser via a chainable API
@@ -1468,7 +1468,7 @@
 - [iatek/jquery-socialist](https://github.com/iatek/jquery-socialist) - jquery social media plugin that aggregates and combines Facebook, Twitter, LinkedIn, YouTube, Instagram, Pinterest and.. Combine social feeds from multiple social networks or RSS in elegant layouts vi
 - [hakimel/forkit.js](https://github.com/hakimel/forkit.js) - an animated GitHub ribbon
 - [ngryman/loop.js](https://github.com/ngryman/loop.js) - HTML5 game ecosystem
-- [visionmedia/supertest](https://github.com/visionmedia/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [martinwells/objects.js](https://github.com/martinwells/objects.js) - Core class tools and object pooling for high-performance gaming in Javascript
 - [ryanseddon/bunyip](https://github.com/ryanseddon/bunyip) - Automate client-side unit testing in real browsers using the CLI
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.

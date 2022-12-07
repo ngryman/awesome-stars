@@ -281,6 +281,7 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [iotaledger/goshimmer](https://github.com/iotaledger/goshimmer) - Prototype implementation of IOTA 2.0
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -1809,6 +1810,8 @@
 
 ## Rust 
 
+- [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️
+- [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient JavaScript/TypeScript business logic layer
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
@@ -1935,7 +1938,6 @@
 - [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
 - [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [rafeca/dotfiles](https://github.com/rafeca/dotfiles) - my development environment build guide (for OSX 10.9)
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -2064,7 +2066,6 @@
 - [9ballsyndrome/WebGL_Compute_shader](https://github.com/9ballsyndrome/WebGL_Compute_shader) - WebGL 2.0 Compute shader Demos
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
@@ -2149,6 +2150,7 @@
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [localvoid/kivi](https://github.com/localvoid/kivi) - [UNMAINTAINED] Javascript (TypeScript) library for building web user interfaces
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.

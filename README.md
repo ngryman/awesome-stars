@@ -572,7 +572,7 @@
 - [robinweser/fast-loops](https://github.com/robinweser/fast-loops) - Tiny (0.6kb), performant & immutable iteration utilities for arrays and objects
 - [robinweser/fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [andreypopp/react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS
 - [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor

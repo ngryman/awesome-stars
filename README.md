@@ -1023,7 +1023,7 @@
 - [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) - Sketch plugins by Cemre Gungor
 - [marcbouchenoire/sketch-constraints](https://github.com/marcbouchenoire/sketch-constraints) - 📏 A plugin that integrates constraints in Sketch to lay out layers.
-- [socketio/engine.io](https://github.com/socketio/engine.io) - 
+- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Raynos/mercury](https://github.com/Raynos/mercury) - A truly modular frontend framework
@@ -1199,7 +1199,7 @@
 - [node4good/formage](https://github.com/node4good/formage) - Bootstraped Admin GUI addon for mongoose, jugglingdb, or just as a form generator
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
-- [fergiemcdowall/norch](https://github.com/fergiemcdowall/norch) - A search engine based on Node.js and LevelDB
+- [fergiemcdowall/norch](https://github.com/fergiemcdowall/norch) - A search server that can be installed with npm
 - [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 - [sindresorhus/electron-debug](https://github.com/sindresorhus/electron-debug) - Adds useful debug features to your Electron app
 - [sindresorhus/buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 Buffer.compare() ponyfill
@@ -1609,6 +1609,7 @@
 
 ## Others 
 
+- [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [seeker89/unikernels](https://github.com/seeker89/unikernels) - State of the art for unikernels
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)

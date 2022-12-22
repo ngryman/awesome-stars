@@ -243,7 +243,7 @@
 
 ## Elixir 
 
-- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+- [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 ## Elm 

@@ -600,7 +600,6 @@
 - [zouhir/lqip](https://github.com/zouhir/lqip) - Low Quality Image Placeholders (LQIP) Module for Node
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [tschaub/mock-fs](https://github.com/tschaub/mock-fs) - Configurable mock for the fs module
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build and document website component libraries and design systems.
@@ -804,7 +803,7 @@
 - [leighmcculloch/gascrolldepth.js](https://github.com/leighmcculloch/gascrolldepth.js) - A Google Analytics plugin that measures engagement by tracking page scroll depth.
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [pinojs/pino-http](https://github.com/pinojs/pino-http) - 🌲 high-speed HTTP logger for Node.js
-- [hypercore-protocol/hypercore](https://github.com/hypercore-protocol/hypercore) - Hypercore is a secure, distributed append-only log.
+- [holepunchto/hypercore](https://github.com/holepunchto/hypercore) - Hypercore is a secure, distributed append-only log.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [hudochenkov/postcss-sorting](https://github.com/hudochenkov/postcss-sorting) - PostCSS plugin to keep rules and at-rules content in order.
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa) - Run JXA code and get the result
@@ -2133,6 +2132,7 @@
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron

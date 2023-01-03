@@ -797,7 +797,7 @@
 - [yoshuawuyts/server-router](https://github.com/yoshuawuyts/server-router) - Server router
 - [lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
 - [opbeat/opbeat-node](https://github.com/opbeat/opbeat-node) - DEPRECATED - See Elastic APM instead: https://github.com/elastic/apm-agent-nodejs
-- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
 - [sindresorhus/gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images
 - [leighmcculloch/gascrolldepth.js](https://github.com/leighmcculloch/gascrolldepth.js) - A Google Analytics plugin that measures engagement by tracking page scroll depth.

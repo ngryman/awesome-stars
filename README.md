@@ -641,7 +641,7 @@
 - [googlearchive/flashlight](https://github.com/googlearchive/flashlight) - A pluggable integration with ElasticSearch to provide advanced content searches in Firebase.
 - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
-- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [AndersDJohnson/firedux](https://github.com/AndersDJohnson/firedux) - :fire: :hatching_chick: Firebase + Redux for ReactJS
 - [luisvinicius167/dutier](https://github.com/luisvinicius167/dutier) - The immutable, async and hybrid state management solution for Javascript applications.
 - [calmm-js/partial.lenses](https://github.com/calmm-js/partial.lenses) - Partial lenses is a comprehensive, high-performance optics library for JavaScript
@@ -1809,6 +1809,7 @@
 
 ## Rust 
 
+- [burn-rs/burn](https://github.com/burn-rs/burn) - BURN: Burn Unstoppable Rusty Neurons
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.

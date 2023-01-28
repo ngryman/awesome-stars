@@ -1552,6 +1552,7 @@
 - [MAIF/melusine](https://github.com/MAIF/melusine) - Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français".
 - [Kreswell/Small-Projects](https://github.com/Kreswell/Small-Projects) - Small recreational and hobby coding projects.
 - [learnml/machine-learning-specialization](https://github.com/learnml/machine-learning-specialization) - 
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## Less 
 
@@ -1771,7 +1772,6 @@
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [tschellenbach/Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud 
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [Doist/bitmapist](https://github.com/Doist/bitmapist) - Powerful analytics and cohort library using Redis bitmaps
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.

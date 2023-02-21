@@ -484,7 +484,7 @@
 - [juliangruber/native-modules](https://github.com/juliangruber/native-modules) - Report on the native node modules used by your application or module
 - [siddharthkp/auto-install](https://github.com/siddharthkp/auto-install) - Install dependencies as you code ⚡️
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
-- [APIs-guru/google-discovery-to-swagger](https://github.com/APIs-guru/google-discovery-to-swagger) - Script for converting Google Discovery format into OpenAPI (swagger) 2.0
+- [APIs-guru/google-discovery-to-swagger](https://github.com/APIs-guru/google-discovery-to-swagger) - Script for converting Google Discovery format into OpenAPI (swagger) 3.0
 - [Mermade/oas-kit](https://github.com/Mermade/oas-kit) - Convert Swagger 2.0 definitions to OpenAPI 3.0 and resolve/validate/lint
 - [LucyBot-Inc/api-spec-converter](https://github.com/LucyBot-Inc/api-spec-converter) - Convert API descriptions between popular formats such as OpenAPI(fka Swagger), RAML, API Blueprint, WADL, etc.
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services

@@ -1143,7 +1143,6 @@
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [hugeinc/styleguide](https://github.com/hugeinc/styleguide) - A tool to make creating and maintaining style guides easy.
 - [stefanjudis/credits-cli](https://github.com/stefanjudis/credits-cli) - Find out on whose work your project is based on
-- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [HenrikJoreteg/native-promisify-if-present](https://github.com/HenrikJoreteg/native-promisify-if-present) - Return a promise from a callback-as-last-argument function using native a Promise, but only if native Promises exist.
 - [rschmukler/gulp-insert](https://github.com/rschmukler/gulp-insert) - string mutation library for gulp
 - [markmarijnissen/js-mediator](https://github.com/markmarijnissen/js-mediator) - Tiny Javascript library for the Mediator Pattern
@@ -2215,6 +2214,7 @@
 - [thelgevold/angular-samples](https://github.com/thelgevold/angular-samples) - Angular sample components
 - [rolandjitsu/angular-lab](https://github.com/rolandjitsu/angular-lab) - Angular Lab
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript

@@ -1454,6 +1454,7 @@
 - [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor) - 
 - [ajacksified/song-of-github](https://github.com/ajacksified/song-of-github) - Let me play you the song of my contributions.
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [GianlucaGuarini/EasyAnimationFrame](https://github.com/GianlucaGuarini/EasyAnimationFrame) - Using EasyAnimationFrame.js you can make html5 canvas or html animations having the complete control over the framerate.
 - [gre/diaporama](https://github.com/gre/diaporama) - image/video/content slideshow engine providing high quality animation effects including Kenburns Effect and GLSL Transitions.
 - [domenic/sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
@@ -1812,6 +1813,7 @@
 
 ## Rust 
 
+- [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [frondeus/test-case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [imbolc/tower-request-id](https://github.com/imbolc/tower-request-id) - A tower (hyper, axum, warp) service to add an unique id for every request
@@ -2232,7 +2234,6 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 

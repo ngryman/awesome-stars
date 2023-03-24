@@ -343,6 +343,7 @@
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [KhronosGroup/WebGL](https://github.com/KhronosGroup/WebGL) - The Official Khronos WebGL Repository
 - [ozten/TLD.js](https://github.com/ozten/TLD.js) - Kickstarter project for applying for a JavaScript top level domain (.js TLD)
 - [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
@@ -1440,7 +1441,6 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JerrySievert/date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser
 - [bnoordhuis/node-heapdump](https://github.com/bnoordhuis/node-heapdump) - Make a dump of the V8 heap for later inspection.
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [ngryman/jquery.finger](https://github.com/ngryman/jquery.finger) - :v: jQuery touch & gestures, fingers in the nose.
 - [paulwalker/connect-static-expiry](https://github.com/paulwalker/connect-static-expiry) - Connect middleware for static files that sets caching response headers as well as generates and rewrites fingerprinted urls.
 - [medikoo/modules-webmake](https://github.com/medikoo/modules-webmake) - Bundle CommonJS/Node.js modules for web browser

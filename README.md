@@ -2215,7 +2215,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [tfoxy/chrome-promise](https://github.com/tfoxy/chrome-promise) - Promises for chrome JavaScript APIs used in extensions and apps.

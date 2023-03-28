@@ -1273,7 +1273,7 @@
 - [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate SVG elements.
 - [jsoverson/JavaScript-Particle-System](https://github.com/jsoverson/JavaScript-Particle-System) - 2d JavaScript Particle System with gravity field simulation
 - [darkskyapp/delaunay-fast](https://github.com/darkskyapp/delaunay-fast) - Fast Delaunay Triangulation in JavaScript.
-- [KenanY/champion](https://github.com/KenanY/champion) - Get a League of Legends champion from their key.
+- [kenany/champion](https://github.com/kenany/champion) - Get a League of Legends champion from their key.
 - [googlearchive/ChromeWebLab](https://github.com/googlearchive/ChromeWebLab) - The Chrome Web Lab for Makers, Hackers and everyone
 - [sindresorhus/camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -1556,7 +1556,7 @@
 
 ## Less 
 
-- [arcticicestudio/nord-atom-syntax](https://github.com/arcticicestudio/nord-atom-syntax) - An arctic, north-bluish clean and elegant Atom syntax theme.
+- [nordtheme/atom-syntax](https://github.com/nordtheme/atom-syntax) - An arctic, north-bluish clean and elegant Atom syntax theme.
 
 ## LiveScript 
 

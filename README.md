@@ -491,7 +491,7 @@
 - [yargs/yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs
 - [eduardolima93/playlist-manager](https://github.com/eduardolima93/playlist-manager) - Playlist manager for Spotify
 - [Thinkmill/jest-fixtures](https://github.com/Thinkmill/jest-fixtures) - Use file system fixtures in Jest
-- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
+- [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 - [alexreardon/tiny-warning](https://github.com/alexreardon/tiny-warning) - A tiny warning function
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API :fire:
@@ -1924,7 +1924,7 @@
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perf?
-- [danielguillan/bem-constructor](https://github.com/danielguillan/bem-constructor) - A Sass library for building immutable and namespaced BEM-style CSS objects
+- [danielguillan/bem-constructor](https://github.com/danielguillan/bem-constructor) - A Sass library for building immutable and namespaced BEM CSS objects
 - [oddbird/true](https://github.com/oddbird/true) - Sass unit tests
 - [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.

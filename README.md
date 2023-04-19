@@ -536,6 +536,7 @@
 - [GoogleChromeLabs/idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [derhuerst/svg-radar-chart](https://github.com/derhuerst/svg-radar-chart) - Generate SVG radar charts.
 - [GoogleChromeLabs/tti-polyfill](https://github.com/GoogleChromeLabs/tti-polyfill) - Time-to-interactive polyfill
+- [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [siddharthkp/card-vibes](https://github.com/siddharthkp/card-vibes) - The card component with good vibes
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
@@ -2127,7 +2128,6 @@
 - [d4rkr00t/whybundled](https://github.com/d4rkr00t/whybundled) - Answers the question – Why the hell is this module in a bundle?
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
-- [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [streamich/freestyler](https://github.com/streamich/freestyler) - 5th generation CSS-in-JS library

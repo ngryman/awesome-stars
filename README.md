@@ -2174,7 +2174,7 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [localvoid/kivi](https://github.com/localvoid/kivi) - [UNMAINTAINED] Javascript (TypeScript) library for building web user interfaces
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [glimmerjs/glimmer-vm](https://github.com/glimmerjs/glimmer-vm) - 
 - [google/incremental-dom](https://github.com/google/incremental-dom) - An in-place DOM diffing library
 - [thlorenz/spok](https://github.com/thlorenz/spok) - Checks a given object against a given specification to keep you from writing boilerplate tests.

@@ -493,7 +493,7 @@
 - [Thinkmill/jest-fixtures](https://github.com/Thinkmill/jest-fixtures) - Use file system fixtures in Jest
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 - [alexreardon/tiny-warning](https://github.com/alexreardon/tiny-warning) - A tiny warning function
-- [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API :fire:
 - [ImmoweltGroup/flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) - A command line interface that aims to solve a few issues while working with flow typed codebases in a mono-repo.
 - [siimonevans/notes](https://github.com/siimonevans/notes) - Offline-first notepad PWA

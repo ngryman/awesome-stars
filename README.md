@@ -1945,7 +1945,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
-- [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - Node.js version manager lovingly made for Fish.
+- [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
 - [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [rafeca/dotfiles](https://github.com/rafeca/dotfiles) - my development environment build guide (for OSX 10.9)

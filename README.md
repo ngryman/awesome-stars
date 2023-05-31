@@ -247,7 +247,7 @@
 ## Elixir 
 
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 ## Elm 
 
@@ -1861,7 +1861,7 @@
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [turnage/immense](https://github.com/turnage/immense) - Meshes with L-Systems
-- [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys) - FFmpeg bindings for Rust.
+- [meh/rust-ffmpeg-sys](https://github.com/meh/rust-ffmpeg-sys) - moved to meh/rust-ffmpeg
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.

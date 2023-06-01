@@ -1752,6 +1752,7 @@
 
 ## Python 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!

@@ -929,7 +929,6 @@
 - [flitbit/diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [kevva/to-ico](https://github.com/kevva/to-ico) - Convert PNG to ICO in memory
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [ngryman/obelisk-buildr](https://github.com/ngryman/obelisk-buildr) - Isometric builder using obelisk.js.
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [qodesmith/typer](https://github.com/qodesmith/typer) - A JavaScript typing library with sexy syntax and diddly dependencies.
@@ -1956,6 +1955,7 @@
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [yoshuawuyts/dotfiles](https://github.com/yoshuawuyts/dotfiles) - Linux desktop config
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [rstacruz/git-update-ghpages](https://github.com/rstacruz/git-update-ghpages) - Simple tool to update GitHub pages
 - [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
 - [hbin/top-programming-fonts](https://github.com/hbin/top-programming-fonts) - 

@@ -30,6 +30,7 @@
 - [Less](#less)
 - [LiveScript](#livescript)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
@@ -1573,6 +1574,10 @@
 - [ymobe/rapanui](https://github.com/ymobe/rapanui) - High level API for MOAI framework
 - [LuaDist/classlib](https://github.com/LuaDist/classlib) - A multiple-inheritance class library for Lua.
 
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [tj/react-fatigue-dev](https://github.com/tj/react-fatigue-dev) - Module of modules for making modules
@@ -1914,7 +1919,6 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [johannhof/pipeline.rs](https://github.com/johannhof/pipeline.rs) - :umbrella: =&gt; :partly_sunny: =&gt; :sunny:
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs

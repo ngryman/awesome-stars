@@ -849,7 +849,7 @@
 - [lautis/rollup-plugin-browserify-transform](https://github.com/lautis/rollup-plugin-browserify-transform) - Use Browserify transforms with Rollup
 - [jonschlinkert/uniqueid](https://github.com/jonschlinkert/uniqueid) - Generate a unique sequential ID. Optionally pass a prefix, suffix, or multiplier.
 - [yoshuawuyts/barracks](https://github.com/yoshuawuyts/barracks) - :mountain_railway: action dispatcher for unidirectional data flows
-- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
 - [rollup/rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel) - This package has moved and is now available at @rollup/plugin-babel / https://github.com/rollup/plugins/tree/master/packages/babel
 - [rvagg/node-du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of `du -sb`
 - [sindresorhus/find-up](https://github.com/sindresorhus/find-up) - Find a file or directory by walking up parent directories
@@ -1755,7 +1755,7 @@
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) - A minimal dark Theme for Sublime Text 2 and 3
+- [YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) - [DEPRECATED] A minimal dark Theme for Sublime Text 2 and 3
 
 ## Python 
 
@@ -1854,7 +1854,7 @@
 - [TedDriggs/darling](https://github.com/TedDriggs/darling) - A Rust proc-macro attribute parser
 - [dtolnay/typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
@@ -2024,7 +2024,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page

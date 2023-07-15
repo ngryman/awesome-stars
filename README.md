@@ -1810,7 +1810,7 @@
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 - [dergachev/screengif](https://github.com/dergachev/screengif) - Create animated gif screencasts.
-- [thoughtbot/neat](https://github.com/thoughtbot/neat) - [no longer maintained]
+- [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
 - [igrigorik/http-client-hints](https://github.com/igrigorik/http-client-hints) - 
 - [benubois/redis-browser](https://github.com/benubois/redis-browser) - Browser based redis viewer.
 - [zanker/github-trello](https://github.com/zanker/github-trello) - Manage Trello cards through Github commit messages

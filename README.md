@@ -173,11 +173,9 @@
 - [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 - [finnp/dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
-- [shannonmoeller/reset-css](https://github.com/shannonmoeller/reset-css) - An unmodified* copy of Eric Meyer's CSS reset. PostCSS, webpack, Sass, and Less friendly.
 - [marmelab/universal.css](https://github.com/marmelab/universal.css) - The only CSS you will ever need
 - [sindresorhus/tab-size-on-github](https://github.com/sindresorhus/tab-size-on-github) - Chrome extension - Make tab indented code more readable by forcing the tab size to 4 instead of 8
 - [ngryman/sass-dry](https://github.com/ngryman/sass-dry) - DRY your SASS code.
-- [davidkpiano/sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash.
 - [tictail/bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time.
 - [jonikorpi/Golden-Grid-System](https://github.com/jonikorpi/Golden-Grid-System) - A folding grid for responsive design.
 - [murtaugh/HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) - A simple set of best practices to get HTML5 projects off on the right foot.
@@ -949,7 +947,6 @@
 - [johno/get-readme](https://github.com/johno/get-readme) - Retrieve the readme contents from a directory
 - [adamreisnz/replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
 - [ngryman/readme-filename](https://github.com/ngryman/readme-filename) - Get a project readme file name.
-- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [gcanti/babel-plugin-tcomb](https://github.com/gcanti/babel-plugin-tcomb) - Babel plugin for static and runtime type checking using Flow and tcomb
 - [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
 - [assaf/zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js
@@ -1937,7 +1934,9 @@
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perf?
+- [shannonmoeller/reset-css](https://github.com/shannonmoeller/reset-css) - An unmodified* copy of Eric Meyer's CSS reset. PostCSS, webpack, Sass, and Less friendly.
 - [danielguillan/bem-constructor](https://github.com/danielguillan/bem-constructor) - A Sass library for building immutable and namespaced BEM CSS objects
+- [davidkpiano/sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash.
 - [oddbird/true](https://github.com/oddbird/true) - Sass unit tests
 - [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
@@ -2223,6 +2222,7 @@
 - [fregante/select-dom](https://github.com/fregante/select-dom) - Lightweight querySelector/All wrapper that outputs an Array
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
+- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jimbuck/pully](https://github.com/jimbuck/pully) - A simple CLI and library for downloading high quality YouTube videos!
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS

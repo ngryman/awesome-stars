@@ -929,7 +929,7 @@
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [kevva/to-ico](https://github.com/kevva/to-ico) - Convert PNG to ICO in memory
 - [ngryman/obelisk-buildr](https://github.com/ngryman/obelisk-buildr) - Isometric builder using obelisk.js.
-- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [qodesmith/typer](https://github.com/qodesmith/typer) - A JavaScript typing library with sexy syntax and diddly dependencies.
 - [zhouzi/TheaterJS](https://github.com/zhouzi/TheaterJS) - Typing animation mimicking human behavior.
 - [chenzhutian/hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier) - A plugin for Hexo that optimizes HTML, CSS, JS and imagages, and it can optionally deploys your blog.

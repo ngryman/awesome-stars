@@ -837,7 +837,6 @@
 - [EddyVerbruggen/Insomnia-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin) - :sleepy: Prevent the screen of the mobile device from falling asleep
 - [ecto/jaccard](https://github.com/ecto/jaccard) - Compute the Jaccard Index (similarity) of two sets
 - [kristoferjoseph/svg-symbols](https://github.com/kristoferjoseph/svg-symbols) - SVG SYMBOLS✨
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [babel/babel-preset-env](https://github.com/babel/babel-preset-env) - PSA: this repo has been moved into babel/babel --&gt;
 - [ForbesLindesay/closest](https://github.com/ForbesLindesay/closest) - Find the closest parent that matches a selector
 - [entwicklerstube/babel-plugin-root-import](https://github.com/entwicklerstube/babel-plugin-root-import) - Add the opportunity to import modules by the root path
@@ -2210,6 +2209,7 @@
 - [sindresorhus/p-pipe](https://github.com/sindresorhus/p-pipe) - Compose promise-returning & async functions into a reusable pipeline
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application

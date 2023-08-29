@@ -584,7 +584,7 @@
 - [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [bcoin-org/bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [ngryman/p-using](https://github.com/ngryman/p-using) - Dispose a resource when p-using promise resolves.
 - [parshap/check-node-version](https://github.com/parshap/check-node-version) - Check installed versions of node and npm
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave

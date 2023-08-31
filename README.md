@@ -2022,7 +2022,7 @@
 - [TeemuKoivisto/prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.

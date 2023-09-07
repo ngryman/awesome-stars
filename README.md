@@ -922,7 +922,6 @@
 - [math-utils/hamming-distance](https://github.com/math-utils/hamming-distance) - Calculate the bit-wise hamming distance of two hex strings or buffers
 - [miketheprogrammer/node-ml](https://github.com/miketheprogrammer/node-ml) - A Collection of Machine Learning algorithms built for use with NodeJS
 - [deestan/set-clustering](https://github.com/deestan/set-clustering) - Tool for grouping similar items.
-- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [flitbit/diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -2221,6 +2220,7 @@
 - [benjamn/ast-types](https://github.com/benjamn/ast-types) - Esprima-compatible implementation of the Mozilla JS Parser API
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [fregante/select-dom](https://github.com/fregante/select-dom) - Lightweight querySelector/All wrapper that outputs an Array
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript

@@ -414,7 +414,7 @@
 - [fastify/avvio](https://github.com/fastify/avvio) - Asynchronous bootstrapping of Node applications
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [danez/pirates](https://github.com/danez/pirates) - Properly hijack require
 - [geut/chan](https://github.com/geut/chan) - A Changelog CLI based on http://keepachangelog.com/
 - [DataFire/DataFire](https://github.com/DataFire/DataFire) - A framework for building integrations and APIs

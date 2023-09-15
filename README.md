@@ -1084,7 +1084,7 @@
 - [yeoman/insight](https://github.com/yeoman/insight) - Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics
 - [wooorm/gemoji](https://github.com/wooorm/gemoji) - Info on gemoji (GitHub Emoji)
 - [syntax-tree/unist-util-select](https://github.com/syntax-tree/unist-util-select) - utility to select unist nodes with CSS-like selectors
-- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [sindresorhus/first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [ghooks-org/ghooks](https://github.com/ghooks-org/ghooks) - Simple git hooks
@@ -1858,7 +1858,7 @@
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
 - [pmalmgren/proxysaur](https://github.com/pmalmgren/proxysaur) - A network debugging proxy powered by WebAssembly
-- [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure Faster ⚡️
+- [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [bastion-rs/agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.

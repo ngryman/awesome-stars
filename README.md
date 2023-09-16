@@ -702,7 +702,6 @@
 - [NathanaelA/v8-Natives](https://github.com/NathanaelA/v8-Natives) - Access v8 Engine Natives easily in Chrome & Node
 - [jsbench/jsbench.github.io](https://github.com/jsbench/jsbench.github.io) - JavaScript benchmark playground
 - [indutny/fft.js](https://github.com/indutny/fft.js) - The fastest JS Radix-4/Radix-2 FFT implementation
-- [tapjs/tap-parser](https://github.com/tapjs/tap-parser) - parse the test anything protocol
 - [bcoe/optional-dev-dependency](https://github.com/bcoe/optional-dev-dependency) - :sunglasses: try to install an optional development dependency, YOLO if you can't.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [segmentio/ware](https://github.com/segmentio/ware) - Easily create your own middleware layer.
@@ -1643,6 +1642,7 @@
 - [jorgebucaran/hyperawesome](https://github.com/jorgebucaran/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [vhf/v8-bailout-reasons](https://github.com/vhf/v8-bailout-reasons) - :wrench: A list of Crankshaft bailout reasons with examples
+- [tapjs/tap-parser](https://github.com/tapjs/tap-parser) - parse the test anything protocol
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns

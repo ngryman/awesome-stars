@@ -96,7 +96,7 @@
 - [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [jsummers/resamplescope](https://github.com/jsummers/resamplescope) - A utility to analyze the algorithms other applications use to resize (resample, scale) images.
-- [clibs/clib](https://github.com/clibs/clib) - C package manager-ish
+- [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
 - [NimbusKit/memorymapping](https://github.com/NimbusKit/memorymapping) - fmemopen port for iOS and Mac OS X
 - [aumuell/libjpeg-turbo](https://github.com/aumuell/libjpeg-turbo) - Unofficial libjpeg-turbo repository focusing on iOS compatibility
 - [bodokaiser/libuv-snippets](https://github.com/bodokaiser/libuv-snippets) - some libuv code snippets written while learning c and libuv

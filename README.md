@@ -1819,6 +1819,7 @@
 
 ## Rust 
 
+- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [dfrg/swash](https://github.com/dfrg/swash) - Font introspection, complex text shaping and glyph rendering.

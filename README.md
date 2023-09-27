@@ -276,7 +276,6 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [kubernetes-retired/multi-tenancy](https://github.com/kubernetes-retired/multi-tenancy) - A working place for multi-tenancy related proposals and prototypes.
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
@@ -885,7 +884,7 @@
 - [erelsgl/limdu](https://github.com/erelsgl/limdu) - Machine-learning for Node.js
 - [jussi-kalliokoski/babel-plugin-operator-overload](https://github.com/jussi-kalliokoski/babel-plugin-operator-overload) - Babel plugin for overloading operators
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
-- [harthur/kittydar](https://github.com/harthur/kittydar) - [UNMAINTAINED] Face detection for cats in JavaScript - demo for TXJS 2012 talk
+- [harthur/kittydar](https://github.com/harthur/kittydar) - Face detection for cats in JavaScript - demo for TXJS 2012 talk
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [mljs/hclust](https://github.com/mljs/hclust) - Hierarchical clustering in JavaScript
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
@@ -919,7 +918,7 @@
 - [hughsk/display-tree](https://github.com/hughsk/display-tree) - A JavaScript tree implementation designed to be efficiently "flattened" and sorted.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [sindresorhus/pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function
-- [harthur/clustering](https://github.com/harthur/clustering) - [UNMAINTAINED] K-means and hierarchical clustering
+- [harthur/clustering](https://github.com/harthur/clustering) - K-means and hierarchical clustering
 - [math-utils/wilson-score](https://github.com/math-utils/wilson-score) - Because averages suck
 - [math-utils/hamming-distance](https://github.com/math-utils/hamming-distance) - Calculate the bit-wise hamming distance of two hex strings or buffers
 - [miketheprogrammer/node-ml](https://github.com/miketheprogrammer/node-ml) - A Collection of Machine Learning algorithms built for use with NodeJS
@@ -1526,7 +1525,7 @@
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
-- [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
+- [harthur/brain](https://github.com/harthur/brain) - Simple feed-forward neural network in JavaScript
 - [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
@@ -1819,6 +1818,7 @@
 
 ## Rust 
 
+- [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -1905,6 +1905,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [PabloMansanet/tightness](https://github.com/PabloMansanet/tightness) - 
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [durch/rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with S3 API compatible services
 - [enseadaio/enseada](https://github.com/enseadaio/enseada) - A Cloud native multi-package registry

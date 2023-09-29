@@ -1153,7 +1153,7 @@
 - [samccone/noise](https://github.com/samccone/noise) - :speaker: Recreating the dialup modem in JS
 - [bruth/synapse](https://github.com/bruth/synapse) - Hooks to support data binding between virtually any object.
 - [remy/bind.js](https://github.com/remy/bind.js) - bind.js - simple two way data binding to HTML and callbacks
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [alexfernandez/package-quality](https://github.com/alexfernandez/package-quality) - Measurements of quality for packages, especially for npm
 - [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 - [jdavidberger/js2glsl](https://github.com/jdavidberger/js2glsl) - Convert from javascript functions to GL shader source

@@ -384,6 +384,7 @@
 
 ## JavaScript 
 
+- [bytecodealliance/componentize-js](https://github.com/bytecodealliance/componentize-js) - JS -&gt; WebAssembly Component
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!

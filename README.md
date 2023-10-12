@@ -385,6 +385,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [bytecodealliance/componentize-js](https://github.com/bytecodealliance/componentize-js) - JS -&gt; WebAssembly Component
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -967,7 +968,7 @@
 - [sindresorhus/alfred-npms](https://github.com/sindresorhus/alfred-npms) - Alfred 3 workflow to search for npm packages with npms.io
 - [philipwalton/easy-sauce](https://github.com/philipwalton/easy-sauce) - Easily run JavaScript unit tests on the Sauce Labs cloud.
 - [prebuild/prebuild](https://github.com/prebuild/prebuild) - A command line tool for easily doing prebuilds for multiple version of node on a specific platform
-- [Jam3/f1](https://github.com/Jam3/f1) - A stateful ui library
+- [Experience-Monks/f1](https://github.com/Experience-Monks/f1) - A stateful ui library
 - [mattdesl/budo](https://github.com/mattdesl/budo) - :clapper: a dev server for rapid prototyping
 - [choojs/choo](https://github.com/choojs/choo) - :steam_locomotive::train: - sturdy 4kb frontend framework
 - [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar
@@ -1034,7 +1035,7 @@
 - [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [sindresorhus/is-progressive-cli](https://github.com/sindresorhus/is-progressive-cli) - Check if JPEG images are progressive
-- [Jam3/devtool](https://github.com/Jam3/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
+- [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
 - [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
 - [jsdf/browserify-cache-api](https://github.com/jsdf/browserify-cache-api) - 
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
@@ -1821,6 +1822,7 @@
 
 ## Rust 
 
+- [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [Pitasi/rscx](https://github.com/Pitasi/rscx) - Rust Server Components. JSX-like syntax and async out of the box.

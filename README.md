@@ -299,7 +299,7 @@
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -530,7 +530,7 @@
 - [tschaub/gh-pages](https://github.com/tschaub/gh-pages) - General purpose task for publishing files to a gh-pages branch on GitHub
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [knowledgecode/date-and-time](https://github.com/knowledgecode/date-and-time) - A Minimalist DateTime utility for Node.js and the browser
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [kitze/twizzle-landing](https://github.com/kitze/twizzle-landing) - The landing page for Twizzle
 - [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript

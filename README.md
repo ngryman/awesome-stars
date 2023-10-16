@@ -1306,7 +1306,7 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [spite/rstats](https://github.com/spite/rstats) - rStats
 - [spite/Wagner](https://github.com/spite/Wagner) - Effects composer for three.js
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [HenrikJoreteg/wildemitter](https://github.com/HenrikJoreteg/wildemitter) - A super lightweight EventEmitter similar to what comes in Node.js, but with a support for wildcard events '*'
 - [amsul/pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [Pikaday/Pikaday](https://github.com/Pikaday/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
@@ -1822,6 +1822,7 @@
 
 ## Rust 
 
+- [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs) - Actor runtime and distributed systems framework for Rust
 - [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust

@@ -2094,7 +2094,7 @@
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
-- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
+- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [ngryman/fauda](https://github.com/ngryman/fauda) - Configuration made simple.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.

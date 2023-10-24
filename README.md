@@ -1005,7 +1005,6 @@
 - [s-yadav/patternLock](https://github.com/s-yadav/patternLock) - A light weight plugin to simulate android like pattern lock interface for your hybrid app or website.
 - [ngryman/hi5](https://github.com/ngryman/hi5) - Friendly lightweight type checker :raised_hands:.
 - [ogt/valid-url](https://github.com/ogt/valid-url) - Node module that provides URI validation functions
-- [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [sindresorhus/is-progressive](https://github.com/sindresorhus/is-progressive) - Check if JPEG images are progressive
 - [martijndeh/check](https://github.com/martijndeh/check) - A simple type checker for JavaScript inspired by Meteor's check.
 - [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
@@ -2042,6 +2041,7 @@
 
 ## TypeScript 
 
+- [wildbitsapp/wildbits](https://github.com/wildbitsapp/wildbits) - Simple end-to-end encrypted collaborative note taking app.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
@@ -2258,6 +2258,7 @@
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jimbuck/pully](https://github.com/jimbuck/pully) - A simple CLI and library for downloading high quality YouTube videos!
+- [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)

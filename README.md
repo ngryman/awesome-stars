@@ -115,7 +115,7 @@
 ## C++ 
 
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript runtime for Fastly Compute@Edge
+- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript runtime for Fastly Compute
 - [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [lbryio/lbrycrd](https://github.com/lbryio/lbrycrd) - The blockchain that provides the digital content namespace for the LBRY protocol
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -397,7 +397,7 @@
 - [Kikobeats/to-query](https://github.com/Kikobeats/to-query) - Get query object from a request url
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -1823,6 +1823,7 @@
 
 ## Rust 
 
+- [ngryman/signaling](https://github.com/ngryman/signaling) - Wildbits signaling server.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
@@ -2041,7 +2042,7 @@
 
 ## TypeScript 
 
-- [wildbitsapp/wildbits](https://github.com/wildbitsapp/wildbits) - Simple end-to-end encrypted collaborative note taking app.
+- [ngryman/wildbits](https://github.com/ngryman/wildbits) - Simple end-to-end encrypted collaborative note taking app.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features

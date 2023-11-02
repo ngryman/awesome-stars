@@ -2074,7 +2074,7 @@
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [nodefluent/kafka-streams](https://github.com/nodefluent/kafka-streams) - equivalent to kafka-streams :octopus: for nodejs :sparkles::turtle::rocket::sparkles:
 - [runbots/pino-bravo](https://github.com/runbots/pino-bravo) - A beautiful minimalist formatter for pino.
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [janjakubnanista/ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) - Runtime duck type checking utilities for TypeScript.

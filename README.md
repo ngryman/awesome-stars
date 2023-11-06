@@ -859,7 +859,7 @@
 - [rollup/rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel) - This package has moved and is now available at @rollup/plugin-babel / https://github.com/rollup/plugins/tree/master/packages/babel
 - [rvagg/node-du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of `du -sb`
 - [sindresorhus/find-up](https://github.com/sindresorhus/find-up) - Find a file or directory by walking up parent directories
-- [sindresorhus/pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file
+- [sindresorhus/package-up](https://github.com/sindresorhus/package-up) - Find the closest package.json file
 - [sethvincent/scully](https://github.com/sethvincent/scully) - static sites!
 - [rvagg/archived-prr](https://github.com/rvagg/archived-prr) - 
 - [ngryman/to-method](https://github.com/ngryman/to-method) - ⚓ Convert c-like functions to class methods.

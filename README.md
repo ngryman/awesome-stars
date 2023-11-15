@@ -2271,7 +2271,7 @@
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
+- [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [tfoxy/chrome-promise](https://github.com/tfoxy/chrome-promise) - Promises for chrome JavaScript APIs used in extensions and apps.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [thelgevold/angular-samples](https://github.com/thelgevold/angular-samples) - Angular sample components

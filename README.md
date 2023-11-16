@@ -148,7 +148,6 @@
 - [mikeseven/node-webcl](https://github.com/mikeseven/node-webcl) - 
 - [mikeseven/node-opencl](https://github.com/mikeseven/node-opencl) - Low-level OpenCL 1.x and 2.x bindgings for node.js
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [coreperf/rejit](https://github.com/coreperf/rejit) - fast SIMD-able JIT regular expression compiler
 - [BloodAxe/CloudCVBackend](https://github.com/BloodAxe/CloudCVBackend) - A C++ backend module for CloudCV
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
@@ -1959,6 +1958,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## SCSS 
 

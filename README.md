@@ -1574,7 +1574,7 @@
 
 ## MDX 
 
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
@@ -2266,7 +2266,7 @@
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
-- [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - :smirk: simple emoji support for node.js projects
+- [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager

@@ -184,7 +184,7 @@
 - [murtaugh/HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) - A simple set of best practices to get HTML5 projects off on the right foot.
 - [googlearchive/big-rig](https://github.com/googlearchive/big-rig) - A proof-of-concept Performance Dashboard, CLI and Node module
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
-- [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
+- [max-mapper/screencat](https://github.com/max-mapper/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
 - [bbc/viewporter](https://github.com/bbc/viewporter) - In-browser responsive testing tool.
 - [thomaslindstrom/no-caffeine-syntax](https://github.com/thomaslindstrom/no-caffeine-syntax) - A dark, crisp and clean Atom Editor syntax theme with no caffeine
@@ -818,7 +818,7 @@
 - [mroderick/wrapple](https://github.com/mroderick/wrapple) - Wrapper for browser natives to allow stubbing in unit tests
 - [jonschlinkert/object.pick](https://github.com/jonschlinkert/object.pick) - (object pick) returns a filtered copy of an object with only the specified keys, exactly like `pick` from lo-dash / underscore.
 - [trentm/node-bunyan](https://github.com/trentm/node-bunyan) - a simple and fast JSON logging module for node.js services
-- [maxogden/auth1](https://github.com/maxogden/auth1) - minimalist auth0 client
+- [max-mapper/auth1](https://github.com/max-mapper/auth1) - minimalist auth0 client
 - [lukeed/fly-autoprefixer](https://github.com/lukeed/fly-autoprefixer) - CSS Autoprefixer plugin for Fly.
 - [sindresorhus/unique-string](https://github.com/sindresorhus/unique-string) - Generate a unique random string
 - [pugjs/token-stream](https://github.com/pugjs/token-stream) - Take an array of token and produce a more useful API to give to a parser
@@ -1028,7 +1028,7 @@
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Raynos/mercury](https://github.com/Raynos/mercury) - A truly modular frontend framework
-- [maxogden/yo-yo](https://github.com/maxogden/yo-yo) - A tiny library for building modular UI components using DOM diffing and ES6 tagged template literals
+- [max-mapper/yo-yo](https://github.com/max-mapper/yo-yo) - A tiny library for building modular UI components using DOM diffing and ES6 tagged template literals
 - [choojs/wayfarer](https://github.com/choojs/wayfarer) - :eyeglasses: composable trie based router
 - [mafintosh/vintage-streams](https://github.com/mafintosh/vintage-streams) - Userland streams implementation
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
@@ -1061,7 +1061,7 @@
 - [notwaldorf/github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - :zzz: (inactive) Because copy pasting isn't that great.
 - [vadimdemedes/trevor](https://github.com/vadimdemedes/trevor) - 🚦 Your own mini Travis CI to run tests locally
 - [jnordberg/glslify-bare](https://github.com/jnordberg/glslify-bare) - glslify browserify transform for .glsl files
-- [maxogden/concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result
+- [max-mapper/concat-stream](https://github.com/max-mapper/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result
 - [rstacruz/hicat](https://github.com/rstacruz/hicat) - Command-line syntax highlighter
 - [jsdf/browserify-incremental](https://github.com/jsdf/browserify-incremental) - incremental rebuild for browserify
 - [irontec/node-mouse](https://github.com/irontec/node-mouse) - handle mouse events from /dev/input/[mouse[0-9]+|mice] for nodejs
@@ -1151,7 +1151,7 @@
 - [ben-eb/perfectionist](https://github.com/ben-eb/perfectionist) - Beautify CSS files.
 - [sindresorhus/dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path
 - [alindsay55661/Kernel.js](https://github.com/alindsay55661/Kernel.js) - An ultra lightweight scalable javascript architecture
-- [maxogden/datacat](https://github.com/maxogden/datacat) - view structured data on the command line
+- [max-mapper/datacat](https://github.com/max-mapper/datacat) - view structured data on the command line
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
 - [jclem/steeltoe](https://github.com/jclem/steeltoe) - Don't shoot yourself in the foot traversing objects.
 - [samccone/noise](https://github.com/samccone/noise) - :speaker: Recreating the dialup modem in JS
@@ -1169,7 +1169,7 @@
 - [ljharb/faucet](https://github.com/ljharb/faucet) - human-readable TAP summarizer
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [thlorenz/proxyquire](https://github.com/thlorenz/proxyquire) - 🔮 Proxies nodejs require in order to allow overriding dependencies during testing.
-- [maxogden/csv-write-stream](https://github.com/maxogden/csv-write-stream) - A CSV encoder stream that produces properly escaped CSVs
+- [max-mapper/csv-write-stream](https://github.com/max-mapper/csv-write-stream) - A CSV encoder stream that produces properly escaped CSVs
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [sindresorhus/hash-object](https://github.com/sindresorhus/hash-object) - Get the hash of an object
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -1346,7 +1346,7 @@
 - [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 - [3rd-Eden/node-hashring](https://github.com/3rd-Eden/node-hashring) - hashring is a consistent hashing algorithm for Node.js that is compatible with libketama and python's hash_ring package
 - [dakatsuka/node-consistent-hashing](https://github.com/dakatsuka/node-consistent-hashing) - A pure JavaScript implementation of Consistent Hashing
-- [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
+- [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 - [sloisel/numeric](https://github.com/sloisel/numeric) - Numerical analysis in Javascript
@@ -1697,7 +1697,7 @@
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [maxogden/maintenance-modules](https://github.com/maxogden/maintenance-modules) - a list of modules that are useful for maintaining or developing modules
+- [max-mapper/maintenance-modules](https://github.com/max-mapper/maintenance-modules) - a list of modules that are useful for maintaining or developing modules
 - [loldevs/leaguespec](https://github.com/loldevs/leaguespec) - community crafted knowledge base around Riot Games observer system
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
 - [davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators) - An overview of automatic living styleguide generators
@@ -2203,7 +2203,7 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code

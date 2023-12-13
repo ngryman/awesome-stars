@@ -1438,6 +1438,7 @@
 - [sindresorhus/grunt-concurrent](https://github.com/sindresorhus/grunt-concurrent) - Run grunt tasks concurrently
 - [drewry/leap-theremin](https://github.com/drewry/leap-theremin) - A theremin made with the LEAP motion device
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JerrySievert/date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser
 - [bnoordhuis/node-heapdump](https://github.com/bnoordhuis/node-heapdump) - Make a dump of the V8 heap for later inspection.
 - [ngryman/jquery.finger](https://github.com/ngryman/jquery.finger) - :v: jQuery touch & gestures, fingers in the nose.
@@ -1544,7 +1545,6 @@
 
 ## Jupyter Notebook 
 
-- [MAIF/melusine](https://github.com/MAIF/melusine) - Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français".
 - [Kreswell/Small-Projects](https://github.com/Kreswell/Small-Projects) - Small recreational and hobby coding projects.
 - [learnml/machine-learning-specialization](https://github.com/learnml/machine-learning-specialization) - 
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -1761,6 +1761,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
+- [MAIF/melusine](https://github.com/MAIF/melusine) - Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français".
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
@@ -2294,7 +2295,6 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module

@@ -115,7 +115,7 @@
 ## C++ 
 
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript runtime for Fastly Compute
+- [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript SDK and runtime for building Fastly Compute applications
 - [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [lbryio/lbrycrd](https://github.com/lbryio/lbrycrd) - The blockchain that provides the digital content namespace for the LBRY protocol
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -455,7 +455,6 @@
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [LinusU/wext-shipit](https://github.com/LinusU/wext-shipit) - Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex) - Display math in TeX with KaTeX and ReactJS
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [dudleycarr/nsqjs](https://github.com/dudleycarr/nsqjs) - NodeJS client library for NSQ
 - [nats-io/nats.js](https://github.com/nats-io/nats.js) - Node.js client for NATS, the cloud native messaging system.
@@ -2043,6 +2042,7 @@
 
 ## TypeScript 
 
+- [Tanuel/async-queue](https://github.com/Tanuel/async-queue) - Promise based asynchronous job queue for TypeScript
 - [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor) - 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
 - [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [ngryman/wildbits](https://github.com/ngryman/wildbits) - Simple end-to-end encrypted collaborative note taking app.
@@ -2091,7 +2091,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
-- [nrdlab/pattern-matching-ts](https://github.com/nrdlab/pattern-matching-ts) - ⚡ Pattern Matching in Typescript
+- [stefano-regosa-deel/pattern-matching-ts](https://github.com/stefano-regosa-deel/pattern-matching-ts) - ⚡ Pattern Matching in Typescript
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [mswjs/mswjs.io](https://github.com/mswjs/mswjs.io) - Official website and documentation for the Mock Service Worker library.
@@ -2123,6 +2123,7 @@
 - [lume/glas](https://github.com/lume/glas) - WebGL in WebAssembly with AssemblyScript
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [ctrlplusb/vercel-node-server](https://github.com/ctrlplusb/vercel-node-server) - An unofficial package allowing you to create http.Server instances of your Vercel Node lambdas.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [diegohaz/constate](https://github.com/diegohaz/constate) - React Context + State
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client

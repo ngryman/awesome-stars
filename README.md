@@ -1035,7 +1035,7 @@
 - [jsdf/browserify-cache-api](https://github.com/jsdf/browserify-cache-api) - 
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [DrewML/GifHub](https://github.com/DrewML/GifHub) - Quickly insert GIFs in GitHub comments
 - [ngryman/asmr](https://github.com/ngryman/asmr) - Show a list of your repos. That's it!
 - [davidmarkclements/cute-stack](https://github.com/davidmarkclements/cute-stack) - Cute up your stack traces in Node

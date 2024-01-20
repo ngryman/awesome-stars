@@ -91,7 +91,7 @@
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
-- [glennrp/libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
+- [pnggroup/libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [mattt/WebPImageSerialization](https://github.com/mattt/WebPImageSerialization) - Complete WebP Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling
 - [RJ/ketama](https://github.com/RJ/ketama) - C library for consistent hashing, and langauge bindings
@@ -2036,6 +2036,7 @@
 ## TeX 
 
 - [gpestana/p2psec](https://github.com/gpestana/p2psec) - research on privacy and security in p2p and decentralised systems
+- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [karthik/markdown_science](https://github.com/karthik/markdown_science) - Learn how to use markdown for science
 

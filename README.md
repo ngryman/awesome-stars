@@ -141,7 +141,7 @@
 - [biometrics/openbr](https://github.com/biometrics/openbr) - Open Source Biometrics, Face Recognition
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, VMX(Altivec) and VSX(Power7) for PowerPC, NEON for ARM.
-- [avaneev/avir](https://github.com/avaneev/avir) - High-quality pro HDR image resizing / scaling C++ library, including a very fast SIMD Lanczos resizer
+- [avaneev/avir](https://github.com/avaneev/avir) - High-quality pro HDR image resizing / scaling C++ library, including a very fast, precise, SIMD Lanczos resizer
 - [sorccu/node-jpeg-turbo](https://github.com/sorccu/node-jpeg-turbo) - Limited libjpeg-turbo bindings for Node.js.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [crosswalk-project/crosswalk](https://github.com/crosswalk-project/crosswalk) - A web runtime built on Chrome. This project is currently unmaintained.
@@ -1571,6 +1571,7 @@
 ## MDX 
 
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -2100,7 +2101,6 @@
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [imcuttle/node-await-event-emitter](https://github.com/imcuttle/node-await-event-emitter) - await events library like EventEmitter
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager

@@ -272,7 +272,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀

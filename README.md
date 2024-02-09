@@ -53,7 +53,6 @@
 - [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Wren](#wren)
 - [Zig](#zig)
@@ -2100,6 +2099,7 @@
 - [mswjs/mswjs.io](https://github.com/mswjs/mswjs.io) - Official website and documentation for the Mock Service Worker library.
 - [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [imcuttle/node-await-event-emitter](https://github.com/imcuttle/node-await-event-emitter) - await events library like EventEmitter
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
@@ -2302,10 +2302,6 @@
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [dreamerslab/node.inflection](https://github.com/dreamerslab/node.inflection) - A port of inflection-js to node.js module
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-
-## Vue 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 ## WebAssembly 
 

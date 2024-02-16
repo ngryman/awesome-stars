@@ -1560,7 +1560,7 @@
 - [jessarcher/dotfiles](https://github.com/jessarcher/dotfiles) - $HOME sweet $HOME
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [chuanli11/CNNMRF](https://github.com/chuanli11/CNNMRF) - code for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis"
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [ymobe/rapanui](https://github.com/ymobe/rapanui) - High level API for MOAI framework
 - [LuaDist/classlib](https://github.com/LuaDist/classlib) - A multiple-inheritance class library for Lua.
 

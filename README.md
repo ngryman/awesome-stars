@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Software Edge Infra
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -679,7 +680,7 @@
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [paulirish/devtools-timeline-model](https://github.com/paulirish/devtools-timeline-model) - Unsupported
 - [paulirish/automated-chrome-profiling](https://github.com/paulirish/automated-chrome-profiling) - Node.js recipes for automating javascript profiling in Chrome
-- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
+- [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs
 - [developit/undom](https://github.com/developit/undom) - 🍩 1kb minimally viable DOM Document implementation
@@ -1158,7 +1159,7 @@
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [sindresorhus/object-values](https://github.com/sindresorhus/object-values) - Get the values of an object
-- [ljharb/faucet](https://github.com/ljharb/faucet) - human-readable TAP summarizer
+- [tape-testing/faucet](https://github.com/tape-testing/faucet) - human-readable TAP summarizer
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [thlorenz/proxyquire](https://github.com/thlorenz/proxyquire) - 🔮 Proxies nodejs require in order to allow overriding dependencies during testing.
 - [max-mapper/csv-write-stream](https://github.com/max-mapper/csv-write-stream) - A CSV encoder stream that produces properly escaped CSVs
@@ -1362,7 +1363,7 @@
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [aterrien/jQuery-Knob](https://github.com/aterrien/jQuery-Knob) - Nice, downward compatible, touchable, jQuery dial
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
-- [ljharb/testling](https://github.com/ljharb/testling) - unit tests in all the browsers
+- [tape-testing/testling](https://github.com/tape-testing/testling) - unit tests in all the browsers
 - [9elements/loadie.js](https://github.com/9elements/loadie.js) - Loadie.js is a lightweight jQuery plugin to create a preloader that doesn't suck and that is used by big firms.
 - [sindresorhus/grunt-eslint](https://github.com/sindresorhus/grunt-eslint) - Validate files with ESLint
 - [philipwalton/html-inspector](https://github.com/philipwalton/html-inspector) - HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
@@ -2043,7 +2044,6 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [Tanuel/async-queue](https://github.com/Tanuel/async-queue) - Promise based asynchronous job queue for TypeScript
 - [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor) - 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
-- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [ngryman/wildbits](https://github.com/ngryman/wildbits) - Simple end-to-end encrypted collaborative note taking app.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
@@ -2097,7 +2097,7 @@
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [mswjs/mswjs.io](https://github.com/mswjs/mswjs.io) - Official website and documentation for the Mock Service Worker library.
-- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
+- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [imcuttle/node-await-event-emitter](https://github.com/imcuttle/node-await-event-emitter) - await events library like EventEmitter

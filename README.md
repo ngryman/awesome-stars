@@ -1164,7 +1164,6 @@
 - [max-mapper/csv-write-stream](https://github.com/max-mapper/csv-write-stream) - A CSV encoder stream that produces properly escaped CSVs
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [sindresorhus/hash-object](https://github.com/sindresorhus/hash-object) - Get the hash of an object
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [suguru03/neo-async](https://github.com/suguru03/neo-async) - Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster
 - [pirxpilot/postcss-cli](https://github.com/pirxpilot/postcss-cli) - Simple CLI for postcss
 - [kevva/brightness](https://github.com/kevva/brightness) - Change screen brightness
@@ -2040,7 +2039,7 @@
 
 ## TypeScript 
 
-- [honojs/honox](https://github.com/honojs/honox) - HonoX
+- [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [Tanuel/async-queue](https://github.com/Tanuel/async-queue) - Promise based asynchronous job queue for TypeScript
 - [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor) - 🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane
@@ -2287,6 +2286,7 @@
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [Polymer/polymer-bundler](https://github.com/Polymer/polymer-bundler) - Moved to Polymer/tools monorepo
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.

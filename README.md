@@ -257,9 +257,9 @@
 
 ## Go 
 
-- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Software Edge Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
@@ -895,7 +895,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [jonschlinkert/minimist-methods](https://github.com/jonschlinkert/minimist-methods) - Map your node.js application's methods to command line arguments.
 - [tandrewnichols/opted](https://github.com/tandrewnichols/opted) - Stringify an object to command line options
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [ngryman/meta-dev](https://github.com/ngryman/meta-dev) - :package: Meta package for devDependencies.
 - [ngryman/tree-crawl](https://github.com/ngryman/tree-crawl) - :leaves: Agnostic tree traversal library.
@@ -1881,7 +1881,7 @@
 - [Qovery/engine](https://github.com/Qovery/engine) - The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [bastion-rs/agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
-- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust

@@ -125,7 +125,7 @@
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [aappleby/smhasher](https://github.com/aappleby/smhasher) - Automatically exported from code.google.com/p/smhasher
 - [UprootLabs/poly-flif](https://github.com/UprootLabs/poly-flif) - :camera: A poly-fill for the FLIF image format.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -1653,7 +1653,7 @@
 - [amaas/stanford_dl_ex](https://github.com/amaas/stanford_dl_ex) - Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
-- [bevacqua/reads](https://github.com/bevacqua/reads) - :books: A list of physical books I own and read. Includes ratings!
+- [bevacqua/reads](https://github.com/bevacqua/reads) - :books: A list of physical books I own and read
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [turbo/zQuery](https://github.com/turbo/zQuery) - Pure JavaScript alternatives to jQuery things.

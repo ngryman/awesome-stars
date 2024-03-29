@@ -307,6 +307,7 @@
 
 ## HTML 
 
+- [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [darosh/colorgram-js](https://github.com/darosh/colorgram-js) - Color extraction library
@@ -1817,6 +1818,9 @@
 
 ## Rust 
 
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
+- [sebadob/leptos-captcha](https://github.com/sebadob/leptos-captcha) - Simple, fully self-hosted Captcha / PoW component for Leptos without any user interaction
+- [sebadob/spow](https://github.com/sebadob/spow) - Proof of Work for the Server and Client + WASM
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [ngryman/signaling](https://github.com/ngryman/signaling) - Wildbits signaling server.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
@@ -1956,7 +1960,7 @@
 
 ## SCSS 
 
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perf?
 - [shannonmoeller/reset-css](https://github.com/shannonmoeller/reset-css) - An unmodified* copy of Eric Meyer's CSS reset. PostCSS, webpack, Sass, and Less friendly.
 - [danielguillan/bem-constructor](https://github.com/danielguillan/bem-constructor) - A Sass library for building immutable and namespaced BEM CSS objects

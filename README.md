@@ -1818,6 +1818,7 @@
 
 ## Rust 
 
+- [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 - [sebadob/leptos-captcha](https://github.com/sebadob/leptos-captcha) - Simple, fully self-hosted Captcha / PoW component for Leptos without any user interaction
 - [sebadob/spow](https://github.com/sebadob/spow) - Proof of Work for the Server and Client + WASM
@@ -2285,7 +2286,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [thelgevold/angular-samples](https://github.com/thelgevold/angular-samples) - Angular sample components
 - [rolandjitsu/angular-lab](https://github.com/rolandjitsu/angular-lab) - Angular Lab
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript

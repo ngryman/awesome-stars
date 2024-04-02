@@ -1818,6 +1818,7 @@
 
 ## Rust 
 
+- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 - [sebadob/leptos-captcha](https://github.com/sebadob/leptos-captcha) - Simple, fully self-hosted Captcha / PoW component for Leptos without any user interaction

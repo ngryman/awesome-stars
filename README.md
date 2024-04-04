@@ -1818,6 +1818,7 @@
 
 ## Rust 
 
+- [sebadob/redhac](https://github.com/sebadob/redhac) - Rust Embedded Distributed Highly Available Cache
 - [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management

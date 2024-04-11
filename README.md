@@ -1654,7 +1654,7 @@
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [mehcode/awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 - [bevacqua/reads](https://github.com/bevacqua/reads) - :books: A list of physical books I own and read
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [turbo/zQuery](https://github.com/turbo/zQuery) - Pure JavaScript alternatives to jQuery things.
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials

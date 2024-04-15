@@ -1817,6 +1817,7 @@
 
 ## Rust 
 
+- [woothee/woothee-rust](https://github.com/woothee/woothee-rust) - Rust user-agent strings parser
 - [sebadob/redhac](https://github.com/sebadob/redhac) - Rust Embedded Distributed Highly Available Cache
 - [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies.
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust

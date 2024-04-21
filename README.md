@@ -2113,7 +2113,7 @@
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [ngryman/fauda](https://github.com/ngryman/fauda) - Configuration made simple.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression

@@ -1449,7 +1449,7 @@
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [GianlucaGuarini/EasyAnimationFrame](https://github.com/GianlucaGuarini/EasyAnimationFrame) - Using EasyAnimationFrame.js you can make html5 canvas or html animations having the complete control over the framerate.
 - [gre/diaporama](https://github.com/gre/diaporama) - image/video/content slideshow engine providing high quality animation effects including Kenburns Effect and GLSL Transitions.
-- [domenic/sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
+- [chaijs/sinon-chai](https://github.com/chaijs/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
 - [pzeups/openfrance](https://github.com/pzeups/openfrance) - An anamorphic projection of France with animation
 - [nathggns/node-compass](https://github.com/nathggns/node-compass) - Compass middleware for node.js.
 - [deanh/canvas-playground](https://github.com/deanh/canvas-playground) - A simple CoffeeScript playground for the Canvas API.

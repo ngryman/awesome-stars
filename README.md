@@ -1028,7 +1028,6 @@
 - [mafintosh/vintage-streams](https://github.com/mafintosh/vintage-streams) - Userland streams implementation
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [sindresorhus/is-progressive-cli](https://github.com/sindresorhus/is-progressive-cli) - Check if JPEG images are progressive
 - [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - [OBSOLETE] runs Node.js programs through Chromium DevTools
 - [leeoniya/RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
@@ -2277,6 +2276,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jimbuck/pully](https://github.com/jimbuck/pully) - A simple CLI and library for downloading high quality YouTube videos!
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)

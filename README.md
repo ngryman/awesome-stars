@@ -2124,7 +2124,7 @@
 - [IBM/openapi-to-graphql](https://github.com/IBM/openapi-to-graphql) - Translate APIs described by OpenAPI Specifications (OAS) into GraphQL
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 - [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [timruddell/2d-platformer](https://github.com/timruddell/2d-platformer) - A simple browser-based 2d platform game template using three-js and matter-js
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching

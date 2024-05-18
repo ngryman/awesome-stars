@@ -2048,6 +2048,7 @@
 
 ## TypeScript 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing & sharing code.
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro

@@ -603,7 +603,7 @@
 - [zouhir/lqip-loader](https://github.com/zouhir/lqip-loader) - Low Quality Image Placeholders (LQIP) for Webpack
 - [zouhir/lqip](https://github.com/zouhir/lqip) - Low Quality Image Placeholders (LQIP) Module for Node
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [tschaub/mock-fs](https://github.com/tschaub/mock-fs) - Configurable mock for the fs module
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build and document website component libraries and design systems.

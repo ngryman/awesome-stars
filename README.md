@@ -1664,7 +1664,7 @@
 - [sindresorhus/ponyfill](https://github.com/sindresorhus/ponyfill) - 🦄 Like polyfill but with pony pureness
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [jcouyang/functional-javascript](https://github.com/jcouyang/functional-javascript) - DEPRECATED: moved to https://github.com/jcouyang/clojure-flavored-javascript
-- [yoshuawuyts/notes](https://github.com/yoshuawuyts/notes) - notes on things
+- [yoshuawuyts/knowledge](https://github.com/yoshuawuyts/knowledge) - notes on things
 - [a0viedo/demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - A list of resources about JavaScript engines
 - [rstacruz/rscss](https://github.com/rstacruz/rscss) - Reasonable System for CSS Stylesheet Structure
 - [justintv/Twitch-API](https://github.com/justintv/Twitch-API) - A home for details about our API

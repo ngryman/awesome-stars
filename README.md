@@ -185,7 +185,6 @@
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
 - [max-mapper/screencat](https://github.com/max-mapper/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [zenorocha/browser-diet](https://github.com/zenorocha/browser-diet) - :fries: The definitive front-end performance guide
-- [bbc/viewporter](https://github.com/bbc/viewporter) - In-browser responsive testing tool.
 - [thomaslindstrom/no-caffeine-syntax](https://github.com/thomaslindstrom/no-caffeine-syntax) - A dark, crisp and clean Atom Editor syntax theme with no caffeine
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [renoirb/htmlcsstherightway](https://github.com/renoirb/htmlcsstherightway) - A spinoff on the "the right way" idea to explain the HTML/CSS basics for the self-taught.  Idea coming from https://github.com/h5bp/lazyweb-requests/issues/73

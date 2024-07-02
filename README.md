@@ -373,7 +373,6 @@
 
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 - [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
-- [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [googlecreativelab/landmarker](https://github.com/googlecreativelab/landmarker) - Orientation, GPS, and Places enabled Android Experiment
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
@@ -1545,6 +1544,7 @@
 ## Kotlin 
 
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
+- [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 
 ## Less 
 

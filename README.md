@@ -1018,7 +1018,6 @@
 - [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 - [cemre/cemre-sketch-plugins](https://github.com/cemre/cemre-sketch-plugins) - Sketch plugins by Cemre Gungor
 - [marcbouchenoire/sketch-constraints](https://github.com/marcbouchenoire/sketch-constraints) - 📏 A plugin that integrates constraints in Sketch to lay out layers.
-- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Raynos/mercury](https://github.com/Raynos/mercury) - A truly modular frontend framework
@@ -1672,6 +1671,7 @@
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
 - [leonar15/startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 - [getflourish/Sketch-Sort-Layers](https://github.com/getflourish/Sketch-Sort-Layers) - This plugin lets you sort layers by their content.
+- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [steelbrain/motion](https://github.com/steelbrain/motion) - javascript cli: fast, configurable, easy, with hmr
 - [petehunt/react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.

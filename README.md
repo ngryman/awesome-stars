@@ -2047,6 +2047,7 @@
 
 ## TypeScript 
 
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing & sharing code.

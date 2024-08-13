@@ -1126,7 +1126,7 @@
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [omniscientjs/immstruct](https://github.com/omniscientjs/immstruct) - Immutable data structures with history for top-to-bottom properties in component based libraries like React. Based on Immutable.js
 - [Yomguithereal/baobab](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [henrychavez/materialize-tags](https://github.com/henrychavez/materialize-tags) - A jQuery tags input plugin based on Materialize
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story

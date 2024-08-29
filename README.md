@@ -71,7 +71,7 @@
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [memononen/nanovg](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) - Convert Javascript/TypeScript to C
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -760,7 +760,6 @@
 - [Raynos/term-color](https://github.com/Raynos/term-color) - A lighter weight alternative to chalk
 - [wyze/babel-plugin-transform-react-stateless-component-name](https://github.com/wyze/babel-plugin-transform-react-stateless-component-name) - Adds a display name to the stateless component in the React Dev Tools.
 - [sindresorhus/modify-values](https://github.com/sindresorhus/modify-values) - Modify the values of an object
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nfriedly/get-user-media-promise](https://github.com/nfriedly/get-user-media-promise) - Basic wrapper for navigator.mediaDevices.getUserMedia with automatic fallback to navigator.getUserMedia
 - [hughsk/canvas-fit](https://github.com/hughsk/canvas-fit) - Small module for fitting a canvas element within the bounds of its parent.
 - [mattdesl/simple-html-index](https://github.com/mattdesl/simple-html-index) - a simple HTML index through stream
@@ -2249,6 +2248,7 @@
 - [morganherlocker/cubic-spline](https://github.com/morganherlocker/cubic-spline) - interpolate for X in a 2d array
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis

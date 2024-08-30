@@ -202,6 +202,7 @@
 
 ## Clojure 
 
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [Yomguithereal/clj-fuzzy](https://github.com/Yomguithereal/clj-fuzzy) - A handy collection of algorithms dealing with fuzzy strings and phonetics.
@@ -760,6 +761,7 @@
 - [Raynos/term-color](https://github.com/Raynos/term-color) - A lighter weight alternative to chalk
 - [wyze/babel-plugin-transform-react-stateless-component-name](https://github.com/wyze/babel-plugin-transform-react-stateless-component-name) - Adds a display name to the stateless component in the React Dev Tools.
 - [sindresorhus/modify-values](https://github.com/sindresorhus/modify-values) - Modify the values of an object
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nfriedly/get-user-media-promise](https://github.com/nfriedly/get-user-media-promise) - Basic wrapper for navigator.mediaDevices.getUserMedia with automatic fallback to navigator.getUserMedia
 - [hughsk/canvas-fit](https://github.com/hughsk/canvas-fit) - Small module for fitting a canvas element within the bounds of its parent.
 - [mattdesl/simple-html-index](https://github.com/mattdesl/simple-html-index) - a simple HTML index through stream
@@ -895,7 +897,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [jonschlinkert/minimist-methods](https://github.com/jonschlinkert/minimist-methods) - Map your node.js application's methods to command line arguments.
 - [tandrewnichols/opted](https://github.com/tandrewnichols/opted) - Stringify an object to command line options
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [ngryman/meta-dev](https://github.com/ngryman/meta-dev) - :package: Meta package for devDependencies.
 - [ngryman/tree-crawl](https://github.com/ngryman/tree-crawl) - :leaves: Agnostic tree traversal library.
@@ -2046,6 +2048,7 @@
 
 ## TypeScript 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
@@ -2248,7 +2251,6 @@
 - [morganherlocker/cubic-spline](https://github.com/morganherlocker/cubic-spline) - interpolate for X in a 2d array
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis

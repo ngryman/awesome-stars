@@ -1009,7 +1009,6 @@
 - [rse/html5-spa-essentials](https://github.com/rse/html5-spa-essentials) - Essential Functionalities for HTML5 Single-Page-Apps (SPA)
 - [sindresorhus/image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array
 - [scijs/ndarray](https://github.com/scijs/ndarray) - 📈 Multidimensional arrays for JavaScript
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [jakiestfu/Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [ngryman/lol-spells](https://github.com/ngryman/lol-spells) - Simplified, up-to-date, League of Legends summoner spells list.
 - [ngryman/lol-items](https://github.com/ngryman/lol-items) - Simplified, up-to-date, League of Legends items list.
@@ -2048,6 +2047,7 @@
 
 ## TypeScript 
 
+- [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
@@ -2064,7 +2064,7 @@
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
 - [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Technical Spreadsheet with Python, SQL, and AI
@@ -2283,6 +2283,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jimbuck/pully](https://github.com/jimbuck/pully) - A simple CLI and library for downloading high quality YouTube videos!
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎

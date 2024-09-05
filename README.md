@@ -696,7 +696,6 @@
 - [butterproject/butter-desktop](https://github.com/butterproject/butter-desktop) - All the free parts of  Popcorn Time
 - [bevacqua/easymap](https://github.com/bevacqua/easymap) - 🗺 simplified use of Google Maps API to render a bunch of markers.
 - [helpers/handlebars-helpers](https://github.com/helpers/handlebars-helpers) - 188 handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.
-- [AnimaApp/sketch-web-viewer](https://github.com/AnimaApp/sketch-web-viewer) - View and inspect Sketch 43 files in browser
 - [dollarshaveclub/postmate](https://github.com/dollarshaveclub/postmate) - 📭 A powerful, simple, promise-based postMessage library.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [NathanaelA/v8-Natives](https://github.com/NathanaelA/v8-Natives) - Access v8 Engine Natives easily in Chrome & Node

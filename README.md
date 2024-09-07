@@ -282,7 +282,6 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [iotaledger/goshimmer](https://github.com/iotaledger/goshimmer) - Prototype implementation of IOTA 2.0
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -1993,7 +1992,7 @@
 - [rafeca/dotfiles](https://github.com/rafeca/dotfiles) - my development environment build guide (for OSX 10.9)
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-- [yoshuawuyts/dotfiles](https://github.com/yoshuawuyts/dotfiles) - Linux desktop config
+- [yoshuawuyts/dotfiles-linux-2019](https://github.com/yoshuawuyts/dotfiles-linux-2019) - Linux desktop config
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [rstacruz/git-update-ghpages](https://github.com/rstacruz/git-update-ghpages) - Simple tool to update GitHub pages
 - [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
@@ -2046,6 +2045,7 @@
 
 ## TypeScript 
 
+- [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid) - shadcn/ui, but for Solid.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -2149,6 +2149,7 @@
 - [9ballsyndrome/WebGL_Compute_shader](https://github.com/9ballsyndrome/WebGL_Compute_shader) - WebGL 2.0 Compute shader Demos
 - [ProbableTrain/MapGenerator](https://github.com/ProbableTrain/MapGenerator) - ProcGen American City Maps
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [iotaledger/iota.js](https://github.com/iotaledger/iota.js) - IOTA JavaScript
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries

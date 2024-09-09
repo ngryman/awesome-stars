@@ -1212,7 +1212,7 @@
 - [bendc/sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
 - [mrhooray/gulp-mocha-phantomjs](https://github.com/mrhooray/gulp-mocha-phantomjs) - run client-side Mocha tests with PhantomJS
 - [micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet) - Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light
-- [imagemin/imagemin](https://github.com/imagemin/imagemin) - [Unmaintained] Minify images seamlessly
+- [imagemin/imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly
 - [then/promise](https://github.com/then/promise) - Bare bones Promises/A+ implementation
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [loryjs/lory](https://github.com/loryjs/lory) - ☀ Touch enabled minimalistic slider written in vanilla JavaScript.

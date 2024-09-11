@@ -384,6 +384,7 @@
 ## JavaScript 
 
 - [brian-girko/always-active](https://github.com/brian-girko/always-active) - Pretend a webpage is in its active state even if not
+- [sebadob/spow](https://github.com/sebadob/spow) - Proof of Work for the Server and Client + WASM
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) - JavaScript SDK and runtime for building Fastly Compute applications
@@ -1821,7 +1822,6 @@
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 - [sebadob/leptos-captcha](https://github.com/sebadob/leptos-captcha) - Simple, fully self-hosted Captcha / PoW component for Leptos without any user interaction
-- [sebadob/spow](https://github.com/sebadob/spow) - Proof of Work for the Server and Client + WASM
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [ngryman/signaling](https://github.com/ngryman/signaling) - Wildbits signaling server.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.

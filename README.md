@@ -1841,7 +1841,7 @@
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [bytecodealliance/ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS) - JS -&gt; WebAssembly Component
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
+- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [dfrg/swash](https://github.com/dfrg/swash) - Font introspection, complex text shaping and glyph rendering.
@@ -1887,7 +1887,7 @@
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [bastion-rs/agnostik](https://github.com/bastion-rs/agnostik) - Executor Agnostic Runtime that can run your futures with your favourite Executor
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
+- [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
@@ -2045,6 +2045,7 @@
 
 ## TypeScript 
 
+- [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid) - shadcn/ui, but for Solid.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative

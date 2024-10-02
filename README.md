@@ -920,7 +920,7 @@
 - [math-utils/wilson-score](https://github.com/math-utils/wilson-score) - Because averages suck
 - [math-utils/hamming-distance](https://github.com/math-utils/hamming-distance) - Calculate the bit-wise hamming distance of two hex strings or buffers
 - [miketheprogrammer/node-ml](https://github.com/miketheprogrammer/node-ml) - A Collection of Machine Learning algorithms built for use with NodeJS
-- [deestan/set-clustering](https://github.com/deestan/set-clustering) - Tool for grouping similar items.
+- [helgeholm/set-clustering](https://github.com/helgeholm/set-clustering) - Tool for grouping similar items.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [flitbit/diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -1564,7 +1564,6 @@
 ## MDX 
 
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -1849,6 +1848,7 @@
 - [tazz4843/whisper-rs](https://github.com/tazz4843/whisper-rs) - Rust bindings to https://github.com/ggerganov/whisper.cpp
 - [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
@@ -2067,7 +2067,6 @@
 - [sst/sst](https://github.com/sst/sst) - SST v2
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Spreadsheet with Python, SQL, and AI
 - [TeemuKoivisto/prosemirror-dev-toolkit](https://github.com/TeemuKoivisto/prosemirror-dev-toolkit) - Injectable developer tools for ProseMirror rich-text editors implemented in Svelte and TypeScript.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -2117,6 +2116,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [imcuttle/node-await-event-emitter](https://github.com/imcuttle/node-await-event-emitter) - await events library like EventEmitter
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager

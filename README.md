@@ -138,7 +138,7 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [biometrics/openbr](https://github.com/biometrics/openbr) - Open Source Biometrics, Face Recognition
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, VMX(Altivec) and VSX(Power7) for PowerPC, NEON for ARM.
+- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - [avaneev/avir](https://github.com/avaneev/avir) - High-quality pro HDR image resizing / scaling C++ library, including a very fast, precise, SIMD Lanczos resizer (header-only C++)
 - [sorccu/node-jpeg-turbo](https://github.com/sorccu/node-jpeg-turbo) - Limited libjpeg-turbo bindings for Node.js.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization

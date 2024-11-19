@@ -1821,6 +1821,7 @@
 
 ## Rust 
 
+- [zaycev/bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d) - Experiment with computing 2D shading, lighting and shadows with Bevy Engine
 - [SSSxCCC/steel](https://github.com/SSSxCCC/steel) - The Steel Game Engine
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily

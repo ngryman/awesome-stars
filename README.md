@@ -514,7 +514,7 @@
 - [skiplang/skip](https://github.com/skiplang/skip) - A programming language to skip the things you have already computed
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [geowarin/friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience.
-- [ethanent/phin](https://github.com/ethanent/phin) - Node HTTP client
+- [ethan7g/phin](https://github.com/ethan7g/phin) - Node HTTP client
 - [jdan/isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -1080,7 +1080,7 @@
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [dthree/wat](https://github.com/dthree/wat) - Instant, central, community-built docs
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
-- [yeoman/insight](https://github.com/yeoman/insight) - Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics
+- [sindresorhus/insight](https://github.com/sindresorhus/insight) - Node.js module to help you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics
 - [wooorm/gemoji](https://github.com/wooorm/gemoji) - Info on gemoji (GitHub Emoji)
 - [syntax-tree/unist-util-select](https://github.com/syntax-tree/unist-util-select) - utility to select unist nodes with CSS-like selectors
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective

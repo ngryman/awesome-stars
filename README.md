@@ -378,7 +378,7 @@
 
 ## Java 
 
-- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
+- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A &lt;LinearGradient /&gt; component for react-native
 - [googlecreativelab/landmarker](https://github.com/googlecreativelab/landmarker) - Orientation, GPS, and Places enabled Android Experiment
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework

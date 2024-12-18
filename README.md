@@ -558,7 +558,6 @@
 - [adriancmiranda/unkn](https://github.com/adriancmiranda/unkn) - ES6 to CommonJS
 - [ngryman/letenv](https://github.com/ngryman/letenv) - CLI environment variables loader.
 - [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
-- [microlinkhq/splashy](https://github.com/microlinkhq/splashy) - Given any image (GIF, PNG, WebP, AVIF, etc) extract predominant & palette colors.
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
 - [nullobject/bulb](https://github.com/nullobject/bulb) - A reactive programming library for JavaScript.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -1272,7 +1271,7 @@
 - [kenany/champion](https://github.com/kenany/champion) - Get a League of Legends champion from their key.
 - [googlearchive/ChromeWebLab](https://github.com/googlearchive/ChromeWebLab) - The Chrome Web Lab for Makers, Hackers and everyone
 - [sindresorhus/camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [dalekjs/dalek](https://github.com/dalekjs/dalek) - [unmaintained] DalekJS Base framework
 - [koistya/gulp-csscomb](https://github.com/koistya/gulp-csscomb) - CSScomb plugin for Gulp.js. Formats CSS according to a pre-defined coding style.
 - [eduardolundgren/gulp-umd](https://github.com/eduardolundgren/gulp-umd) - Gulp plugin for build JavaScript files as Universal Module Definition, aka UMD
@@ -2178,7 +2177,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [yarax/swagger-to-graphql](https://github.com/yarax/swagger-to-graphql) - Swagger to GraphQL API adapter
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kimamula/ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [alexreardon/memoize-one](https://github.com/alexreardon/memoize-one) - A memoization library which only remembers the latest invocation
@@ -2210,6 +2209,7 @@
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [streamich/freestyler](https://github.com/streamich/freestyler) - 5th generation CSS-in-JS library
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [microlinkhq/splashy](https://github.com/microlinkhq/splashy) - Given any image (GIF, PNG, WebP, AVIF, etc) extract predominant & palette colors.
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [adumont/tplink-cloud-api](https://github.com/adumont/tplink-cloud-api) - A node.js npm module to remotely control TP-Link smartplugs (HS100, HS110) and smartbulbs (LB100, LB110, LB120, LB130) using their cloud web service (no need to be on the same wifi/lan)
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.

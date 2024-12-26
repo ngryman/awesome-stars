@@ -391,6 +391,7 @@
 
 ## JavaScript 
 
+- [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [brian-girko/always-active](https://github.com/brian-girko/always-active) - Pretend a webpage is in its active state even if not
 - [sebadob/spow](https://github.com/sebadob/spow) - Proof of Work for the Server and Client + WASM
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
@@ -1609,6 +1610,7 @@
 
 ## Others 
 
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings) - Interesting readings and talks on computer science
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [seeker89/unikernels](https://github.com/seeker89/unikernels) - State of the art for unikernels
